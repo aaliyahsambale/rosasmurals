@@ -89,6 +89,25 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'fourth-identifier',
+            alignment: 'left',
+            hidden: false,
+            title: 'Jose Abad Santos San Roque, Marikina',
+            image: './images/abadsantos.jpg',
+            description: 'Frain_Manbiotan, Jafet Mercado, @pudpodnalapis, @_sarcartist, @colthyy, xenia',
+            location: {
+                center: [121.09745, 14.62315],
+                zoom: 19,
+                pitch: 60,
+                bearing: -70
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: 'fourth-chapter',
             alignment: 'fully',
             hidden: false,

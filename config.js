@@ -10,9 +10,9 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     title: 'Art Murals for Leni-Kiko in Marikina',
-    subtitle: 'Mga Artista at kabataang tumitindig para sa kulay rosas na bukas.',
+    subtitle: 'Mga Artista at kabataang tumitindig para sa kulay rosas na bukas. <br> Join this Facebook Group: Youth Vote for Leni - Marikina City and Murals for Leni - Volunteers 🌸🌸🌸',
     byline: 'By: Aaliyah Sambale & Maning Sambale',
-    footer: 'Source: <a href="https://github.com/aaliyahsambale/rosasmurals" target="_blank">Code</a> and <a href="https://github.com/aaliyahsambale/rosasmurals/images/" target="_blank">images</a>. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'Source: <a href="https://github.com/aaliyahsambale/rosasmurals" target="_blank">Code</a> and <a href="https://github.com/aaliyahsambale/rosasmurals/images/" target="_blank">images</a>. <br> Thank you Youth for Vote for Leni - Marikina City and <a href="https://www.youtube.com/watch?v=-L-MW7Q8hhg&list=PLSQP2MHpAR2MAlIGYwL-mWs5NLRJeLKin" target="_blank">Pinoy Adventure Rider</a> for sharing the location of the murals. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
             id: '1',
@@ -380,7 +380,7 @@ var config = {
             hidden: false,
             //title: 'G. Del Pilar St. Cor Sumulong St. Parang Marikina',
             image: './images/montage.png',
-            description: 'For corrections and to add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            description: 'For corrections and to add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1obi4KOITLK8v-AhdJ0NM6riAnw1cmYcG4-EB3tTG1M8/edit?usp=sharing',
             location: {
                 center: [121.1033,14.6399],
                 zoom: 13,

@@ -12,7 +12,7 @@ var config = {
     title: 'Art Murals for Leni-Kiko in Marikina',
     subtitle: 'Mga Artista at kabataang tumitindig para sa kulay rosas na bukas.',
     byline: 'By: Aaliyah Sambale & Maning Sambale',
-    footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: 'Source: <a href="https://github.com/aaliyahsambale/rosasmurals" target="_blank">Code</a> and <a href="https://github.com/aaliyahsambale/rosasmurals/images/" target="_blank">images</a>. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
             id: '1',

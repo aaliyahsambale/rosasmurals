@@ -44,6 +44,7 @@ var config = {
                 // }
             ]
         },
+        
         {
             id: 'second-identifier',
             alignment: 'right',

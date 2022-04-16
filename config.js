@@ -10,7 +10,7 @@ var config = {
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
     title: 'Art Murals for Leni-Kiko in Marikina',
-    subtitle: 'Mga Kabataan at Artistang Tumitindig sa Kulay Rosas na Bukas sa Marikina',
+    subtitle: 'Mga Artista at kabataang tumitindig para sa kulay rosas na bukas.',
     byline: 'By: Aaliyah Sambale & Maning Sambale',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
@@ -247,7 +247,7 @@ var config = {
             hidden: false,
             title: 'Pag-Asa',
             image: './images/montage.png',
-            description: 'Address: Lakandula St. Marikina Heights 1 <br> Artist/s: Anthony Landusay ',
+            description: 'Address: 73 Lakandula St. Marikina Heights <br> Artist/s: Anthony Landusay ',
             location: {
                 center: [121.11699, 14.64451],
                 zoom: 17.92,
@@ -266,7 +266,7 @@ var config = {
             hidden: false,
             title: 'Para sa Aming Kinabukasan',
             image: './images/montage.png',
-            description: 'Address: Ipil St. Cor Lakandula St. Marikina <br> Artist/s: Team Bigote, Sabariza, Thogz, Baste, Jhun, PACH, Jazz, Alec, Arkin, Gael, Jas, Katsumi, Gia Terry, MDTIMTIMAN,  ',
+            description: 'Address: Ipil St. Cor Lakandula St. Marikina Heights <br> Artist/s: Team Bigote, Sabariza, Thogz, Baste, Jhun, PACH, Jazz, Alec, Arkin, Gael, Jas, Katsumi, Gia Terry, MDTIMTIMAN,  ',
             location: {
                 center: [121.11666, 14.64518],
                 zoom: 18.69,
@@ -285,7 +285,7 @@ var config = {
             hidden: false,
             title: 'In Leni We Trust',
             image: './images/montage.png',
-            description: 'Address: Ipil St. Cor Lakandula St. Marikina <br> Artist/s: Ferchie, Aiya, Maxenne, Ae, Aminah, Drex, Miguel, J. Buising, M. Hilahan, P. Anarna, C. Bunag, T. Germono, April H., Catherine T. Nathaniel Q., Jzryl S., Maxene W., Erylle B., Maxene Q., Lizbel H., Aiyana D., Aedam G., Miguel I., Janine A., Trisha D., Samantha D., Jazcinth L., Arkin A., Jasmine P., Lizbel, Katsumi, Miguel, April, Nathan, Maxenne, Erylle, Catherine, Janine',
+            description: 'Address: Ipil St. Cor Lakandula St. Marikina Heights <br> Artist/s: Ferchie, Aiya, Maxenne, Ae, Aminah, Drex, Miguel, J. Buising, M. Hilahan, P. Anarna, C. Bunag, T. Germono, April H., Catherine T. Nathaniel Q., Jzryl S., Maxene W., Erylle B., Maxene Q., Lizbel H., Aiyana D., Aedam G., Miguel I., Janine A., Trisha D., Samantha D., Jazcinth L., Arkin A., Jasmine P., Lizbel, Katsumi, Miguel, April, Nathan, Maxenne, Erylle, Catherine, Janine',
             location: {
                 center: [121.11675, 14.64532],
                 zoom: 18.69,
@@ -302,9 +302,9 @@ var config = {
             id: '15',
             alignment: 'right',
             hidden: false,
-            title: 'Lakandula St. Marikina Heights 2',
+            title: 'Let Women Lead',
             image: './images/montage.png',
-            description: 'Address: <br> Artist/s: ',
+            description: 'Address: 12 Lakandula St. Marikina Heights <br> Artist/s: Unknown ',
             location: {
                 center: [121.11651, 14.64566],
                 zoom: 18.51,
@@ -321,9 +321,9 @@ var config = {
             id: '16',
             alignment: 'left',
             hidden: false,
-            title: 'Ipil St. Marikina Heights',
+            title: 'Leni Mural',
             image: './images/montage.png',
-            description: 'Address: <br> Artist/s: ',
+            description: 'Address: 92 Ipil St. Marikina Heights <br> Artist/s: Unknown ',
             location: {
                 center: [121.11918, 14.64679],
                 zoom: 18,
@@ -340,9 +340,9 @@ var config = {
             id: '17',
             alignment: 'right',
             hidden: false,
-            title: 'Champagnat St. Marikina',
+            title: 'Kulay Rosas ang Bukas',
             image: './images/montage.png',
-            description: 'Address: <br> Artist/s: ',
+            description: 'Address: 51 Champagnat St. Marikina Heights <br> Artist/s: C. Colegio, M. Delos Santos, M & M. Hilahan, P. Pascual, C&H Sandoval, C. Balderas, D. Tan, C. Santos',
             location: {
                 center: [121.11949, 14.64862],
                 zoom: 17.74,
@@ -359,9 +359,9 @@ var config = {
             id: '18',
             alignment: 'left',
             hidden: false,
-            title: 'G. Del Pilar St. Cor Sumulong St. Parang Marikina',
+            title: 'The Future is Women',
             image: './images/montage.png',
-            description: 'Address: <br> Artist/s: ',
+            description: 'Address: 11 G. Del Pilar St. Cor Sumulong St. Parang Marikina <br> Artist/s: UP Asterisk',
             location: {
                 center: [121.11395, 14.65771],
                 zoom: 18.54,
@@ -378,9 +378,9 @@ var config = {
             id: '19',
             alignment: 'fully',
             hidden: false,
-            title: 'G. Del Pilar St. Cor Sumulong St. Parang Marikina',
-            image: './images/montage.jpg',
-            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            //title: 'G. Del Pilar St. Cor Sumulong St. Parang Marikina',
+            image: './images/montage.png',
+            description: 'For corrections and to add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
             location: {
                 center: [121.1033,14.6399],
                 zoom: 13,

@@ -15,17 +15,17 @@ var config = {
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
-            id: 'slug-style-id',
+            id: '1',
             alignment: 'left',
             hidden: false,
-            title: 'I. Mendoza San Roque, Marikina',
+            title: '17 JP Rizal Calumpang, Marikina',
             image: './images/1.png',
             description: 'Artist: Uknown',
             location: {
-                center: [121.09605, 14.62926],
-                zoom: 19,
+                center: [121.09267, 14.62259],
+                zoom: 17.66,
                 pitch: 60,
-                bearing: 167
+                bearing: 0
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -46,17 +46,17 @@ var config = {
         },
         
         {
-            id: 'second-identifier',
+            id: '2',
             alignment: 'right',
             hidden: false,
-            title: '17 JP Rizal Calumpang, Marikina',
+            title: 'MA Roxas, Calumpang',
             image: './images/jprizal.jpg',
             description: 'Artists: Uknown',
             location: {
-                center: [121.09269, 14.62263],
-                zoom: 19,
+                center: [121.09331, 14.62289],
+                zoom: 17.06,
                 pitch: 60,
-                bearing: -88,
+                bearing: 0,
                 // flyTo additional controls-
                 // These options control the flight curve, making it move
                 // slowly and zoom out almost completely before starting
@@ -71,7 +71,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'third-identifier',
+            id: '3',
             alignment: 'left',
             hidden: false,
             title: 'Jose Abad Santos San Roque, Marikina',
@@ -90,17 +90,17 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'fourth-identifier',
+            id: '4',
             alignment: 'left',
             hidden: false,
-            title: 'Jose Abad Santos San Roque, Marikina',
+            title: 'I Mendoza, Sta. Elena Marikina',
             image: './images/abadsantos.jpg',
             description: 'Frain_Manbiotan, Jafet Mercado, @pudpodnalapis, @_sarcartist, @colthyy, xenia',
             location: {
-                center: [121.09745, 14.62315],
-                zoom: 19,
+                center: [121.09597, 14.62923],
+                zoom: 16.97,
                 pitch: 60,
-                bearing: -70
+                bearing: 0
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -109,16 +109,16 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'fourth-chapter',
+            id: '5',
             alignment: 'fully',
             hidden: false,
-            title: 'Third Title',
+            title: '2nd St. Paliparan Sto Niño Marikina',
             image: './images/montage.png',
             description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
             location: {
-                center: [121.10903, 14.64689],
-                zoom: 13,
-                pitch: 0,
+                center: [121.09974, 14.63937],
+                zoom: 17.52,
+                pitch: 60,
                 bearing: 0
             },
             mapAnimation: 'flyTo',

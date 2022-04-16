@@ -393,43 +393,6 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
-        {
-            id: '6',
-            alignment: 'fully',
-            hidden: false,
-            title: 'Florentino St. Sto Niño Marikina',
-            image: './images/montage.png',
-            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
-            location: {
-                center: [121.09759, 14.64245],
-                zoom: 17.74,
-                pitch: 60,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: '6',
-            alignment: 'fully',
-            hidden: false,
-            title: 'Florentino St. Sto Niño Marikina',
-            image: './images/montage.png',
-            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
-            location: {
-                center: [121.09759, 14.64245],
-                zoom: 17.74,
-                pitch: 60,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        }
+
     ]
 };

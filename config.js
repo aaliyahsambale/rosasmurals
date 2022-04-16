@@ -20,7 +20,7 @@ var config = {
             hidden: false,
             title: '17 JP Rizal Calumpang, Marikina',
             image: './images/1.png',
-            description: 'Artist: Uknown',
+            description: 'Artist: Unknown',
             location: {
                 center: [121.09267, 14.62259],
                 zoom: 17.66,
@@ -51,7 +51,7 @@ var config = {
             hidden: false,
             title: 'MA Roxas, Calumpang',
             image: './images/jprizal.jpg',
-            description: 'Artists: Uknown',
+            description: 'Artists: Unknown',
             location: {
                 center: [121.09331, 14.62289],
                 zoom: 17.06,
@@ -76,7 +76,7 @@ var config = {
             hidden: false,
             title: 'Jose Abad Santos San Roque, Marikina',
             image: './images/abadsantos.jpg',
-            description: 'Frain_Manbiotan, Jafet Mercado, @pudpodnalapis, @_sarcartist, @colthyy, xenia',
+            description: 'Artists: Frain_Manbiotan, Jafet Mercado, @pudpodnalapis, @_sarcartist, @colthyy, xenia',
             location: {
                 center: [121.09745, 14.62315],
                 zoom: 19,
@@ -95,7 +95,7 @@ var config = {
             hidden: false,
             title: 'I Mendoza, Sta. Elena Marikina',
             image: './images/abadsantos.jpg',
-            description: 'Frain_Manbiotan, Jafet Mercado, @pudpodnalapis, @_sarcartist, @colthyy, xenia',
+            description: 'Artists: Unknown',
             location: {
                 center: [121.09597, 14.62923],
                 zoom: 16.97,
@@ -110,11 +110,11 @@ var config = {
         },
         {
             id: '5',
-            alignment: 'fully',
+            alignment: 'right',
             hidden: false,
             title: '2nd St. Paliparan Sto Niño Marikina',
             image: './images/montage.png',
-            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            description: 'Artists: Unknown',
             location: {
                 center: [121.09974, 14.63937],
                 zoom: 17.52,
@@ -129,26 +129,7 @@ var config = {
         },
         {
             id: '6',
-            alignment: 'fully',
-            hidden: false,
-            title: 'Florentino St. Sto Niño Marikina',
-            image: './images/montage.png',
-            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
-            location: {
-                center: [121.09759, 14.64245],
-                zoom: 17.74,
-                pitch: 60,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: false,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: '6',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
             title: 'Florentino St. Sto Niño Marikina',
             image: './images/montage.png',
@@ -167,7 +148,7 @@ var config = {
         },
         {
             id: '7',
-            alignment: 'fully',
+            alignment: 'right',
             hidden: false,
             title: 'Woodridge Heights Monarch Avenue',
             image: './images/montage.png',
@@ -205,7 +186,7 @@ var config = {
         },
         {
             id: '9',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'Sapphire St. Cor Sandalwood St. Marikina',
             image: './images/montage.png',
@@ -224,7 +205,7 @@ var config = {
         },
         {
             id: '10',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
             title: 'Sapphire St. Cor Russet St. Marikina',
             image: './images/montage.png',
@@ -243,7 +224,7 @@ var config = {
         },
         {
             id: '11',
-            alignment: 'fully',
+            alignment: 'right',
             hidden: false,
             title: 'Bronze St. Cor Rainbow St. Marikina',
             image: './images/montage.png',
@@ -281,7 +262,7 @@ var config = {
         },
         {
             id: '13',
-            alignment: 'fully',
+            alignment: 'right',
             hidden: false,
             title: 'Ipil St. Cor Lakandula St. Marikina 1',
             image: './images/montage.png',
@@ -300,7 +281,7 @@ var config = {
         },
         {
             id: '14',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
             title: 'Ipil St. Cor Lakandula St. Marikina 2',
             image: './images/montage.png',
@@ -319,7 +300,7 @@ var config = {
         },
         {
             id: '15',
-            alignment: 'fully',
+            alignment: 'right',
             hidden: false,
             title: 'Lakandula St. Marikina Heights 2',
             image: './images/montage.png',
@@ -338,7 +319,7 @@ var config = {
         },
         {
             id: '16',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
             title: 'Ipil St. Marikina Heights',
             image: './images/montage.png',
@@ -357,7 +338,7 @@ var config = {
         },
         {
             id: '17',
-            alignment: 'fully',
+            alignment: 'right',
             hidden: false,
             title: 'Champagnat St. Marikina',
             image: './images/montage.png',
@@ -376,7 +357,7 @@ var config = {
         },
         {
             id: '18',
-            alignment: 'fully',
+            alignment: 'left',
             hidden: false,
             title: 'G. Del Pilar St. Cor Sumulong St. Parang Marikina',
             image: './images/montage.png',
@@ -385,6 +366,25 @@ var config = {
                 center: [121.11395, 14.65771],
                 zoom: 18.54,
                 pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '18',
+            alignment: 'fully',
+            hidden: false,
+            title: 'G. Del Pilar St. Cor Sumulong St. Parang Marikina',
+            image: './images/montage.jpg',
+            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            location: {
+                center: [121.1033,14.6399],
+                zoom: 13,
+                pitch: 0,
                 bearing: 0
             },
             mapAnimation: 'flyTo',

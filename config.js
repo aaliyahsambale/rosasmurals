@@ -126,6 +126,310 @@ var config = {
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
+        },
+        {
+            id: '6',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Florentino St. Sto Niño Marikina',
+            image: './images/montage.png',
+            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            location: {
+                center: [121.09759, 14.64245],
+                zoom: 17.74,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '6',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Florentino St. Sto Niño Marikina',
+            image: './images/montage.png',
+            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            location: {
+                center: [121.09759, 14.64245],
+                zoom: 17.74,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '7',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Woodridge Heights Monarch Avenue',
+            image: './images/montage.png',
+            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            location: {
+                center: [121.09407, 14.65579],
+                zoom: 18.13,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '8',
+            alignment: 'left',
+            hidden: false,
+            title: 'Olive St. Cor Lilac St. Marikina',
+            image: './images/montage.png',
+            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            location: {
+                center: [121.12123, 14.63696],
+                zoom: 17.62,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '9',
+            alignment: 'left',
+            hidden: false,
+            title: 'Sapphire St. Cor Sandalwood St. Marikina',
+            image: './images/montage.png',
+            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            location: {
+                center: [121.12075, 14.63958],
+                zoom: 16.64,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '10',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Sapphire St. Cor Russet St. Marikina',
+            image: './images/montage.png',
+            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            location: {
+                center: [121.11692, 14.64014],
+                zoom: 17.42,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '11',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Bronze St. Cor Rainbow St. Marikina',
+            image: './images/montage.png',
+            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            location: {
+                center: [121.11590, 14.64074],
+                zoom: 17.74,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '12',
+            alignment: 'left',
+            hidden: false,
+            title: 'Lakandula St. Marikina Heights 1',
+            image: './images/montage.png',
+            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            location: {
+                center: [121.11699, 14.64451],
+                zoom: 17.92,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '13',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Ipil St. Cor Lakandula St. Marikina 1',
+            image: './images/montage.png',
+            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            location: {
+                center: [121.11666, 14.64518],
+                zoom: 18.69,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '14',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Ipil St. Cor Lakandula St. Marikina 2',
+            image: './images/montage.png',
+            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            location: {
+                center: [121.11675, 14.64532],
+                zoom: 18.69,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '15',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Lakandula St. Marikina Heights 2',
+            image: './images/montage.png',
+            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            location: {
+                center: [121.11651, 14.64566],
+                zoom: 18.51,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '16',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Ipil St. Marikina Heights',
+            image: './images/montage.png',
+            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            location: {
+                center: [121.11918, 14.64679],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '17',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Champagnat St. Marikina',
+            image: './images/montage.png',
+            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            location: {
+                center: [121.11949, 14.64862],
+                zoom: 17.74,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '18',
+            alignment: 'fully',
+            hidden: false,
+            title: 'G. Del Pilar St. Cor Sumulong St. Parang Marikina',
+            image: './images/montage.png',
+            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            location: {
+                center: [121.11395, 14.65771],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '6',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Florentino St. Sto Niño Marikina',
+            image: './images/montage.png',
+            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            location: {
+                center: [121.09759, 14.64245],
+                zoom: 17.74,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '6',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Florentino St. Sto Niño Marikina',
+            image: './images/montage.png',
+            description: 'To add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1pjHlUx8UbR4M-BiHHSrOQwmtsYT6Gr79AWItigowR-U/edit?usp=sharing">spreadsheet</a>',
+            location: {
+                center: [121.09759, 14.64245],
+                zoom: 17.74,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
         }
     ]
 };

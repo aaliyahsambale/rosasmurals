@@ -9,9 +9,9 @@ var config = {
     inset: false,
     theme: 'light',
     use3dTerrain: false, //set true for enabling 3D maps.
-    title: 'Art Murals for Leni/Kiko in Marikina',
-    subtitle: 'A descriptive and interesting subtitle to draw in the reader',
-    byline: 'By Mappers 4 Leni/Kiko',
+    title: 'Art Murals for Leni-Kiko in Marikina',
+    subtitle: 'Mga Kabataan at Artistang Tumitindig sa Kulay Rosas na Bukas sa Marikina',
+    byline: 'By: Aaliyah Sambale & Maning Sambale',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {

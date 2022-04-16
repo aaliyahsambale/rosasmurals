@@ -380,7 +380,7 @@ var config = {
             hidden: false,
             //title: 'G. Del Pilar St. Cor Sumulong St. Parang Marikina',
             image: './images/montage.png',
-            description: 'For corrections and to add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1obi4KOITLK8v-AhdJ0NM6riAnw1cmYcG4-EB3tTG1M8/edit?usp=sharing',
+            description: 'For corrections and to add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1obi4KOITLK8v-AhdJ0NM6riAnw1cmYcG4-EB3tTG1M8/edit?usp=sharing" target="_blank">spreadsheet</a>',
             location: {
                 center: [121.1033,14.6399],
                 zoom: 13,

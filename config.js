@@ -189,7 +189,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Kabataan Panahon na Upang Tumindig!',
-            image: './images/IMG_2874.jpg',
+            image: './images/IMG_2861.jpg',
             description: 'Address: Sapphire St. Cor Sandalwood St. Marikina <br> Artist/s: angela, ralph, allei 💗, enju, dabid, elaine, louie, @heyimharveyy, @artnikulas, @xoxoarci, @erarhose, @artof.eiramj, @PDOI_, Shanie, Mirza, JM, PJ ',
             location: {
                 center: [121.12075, 14.63958],

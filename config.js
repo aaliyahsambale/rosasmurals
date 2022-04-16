@@ -151,7 +151,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Lahat Kasama',
-            image: './images/montage.png',
+            image: './images/IMG_2993.jpg',
             description: 'Address: Woodridge Heights Monarch Avenue <br> Artist/s: Unknown ',
             location: {
                 center: [121.09407, 14.65579],
@@ -170,7 +170,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Marikeños for Leni',
-            image: './images/montage.png',
+            image: './images/IMG_2851.jpg',
             description: 'Address: Olive St. Cor Lilac St. Marikina <br> Artist/s: Unknown ',
             location: {
                 center: [121.12123, 14.63696],
@@ -189,7 +189,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Kabataan Panahon na Upang Tumindig!',
-            image: './images/montage.png',
+            image: './images/IMG_2874.jpg',
             description: 'Address: Sapphire St. Cor Sandalwood St. Marikina <br> Artist/s: angela, ralph, allei 💗, enju, dabid, elaine, louie, @heyimharveyy, @artnikulas, @xoxoarci, @erarhose, @artof.eiramj, @PDOI_, Shanie, Mirza, JM, PJ ',
             location: {
                 center: [121.12075, 14.63958],
@@ -208,7 +208,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Kulay Rosas ang Bukas',
-            image: './images/montage.png',
+            image: './images/IMG_2875.jpg',
             description: 'Address: 27 Sapphire St. Cor Russet St. Marikina <br> Artist/s: Unknown',
             location: {
                 center: [121.11692, 14.64014],
@@ -227,7 +227,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Leni-Kiko Mural',
-            image: './images/montage.png',
+            image: './images/IMG_2881.jpg',
             description: 'Address: Bronze St. Cor Rainbow St. Marikina <br> Artist/s: Anthony Landusay, Aiyana Dimalanta ',
             location: {
                 center: [121.11590, 14.64074],
@@ -246,7 +246,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Pag-Asa',
-            image: './images/montage.png',
+            image: './images/IMG_2894.jpg',
             description: 'Address: 73 Lakandula St. Marikina Heights <br> Artist/s: Anthony Landusay ',
             location: {
                 center: [121.11699, 14.64451],
@@ -265,7 +265,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Para sa Aming Kinabukasan',
-            image: './images/montage.png',
+            image: './images/IMG_2909.jpg',
             description: 'Address: Ipil St. Cor Lakandula St. Marikina Heights <br> Artist/s: Team Bigote, Sabariza, Thogz, Baste, Jhun, PACH, Jazz, Alec, Arkin, Gael, Jas, Katsumi, Gia Terry, MDTIMTIMAN,  ',
             location: {
                 center: [121.11666, 14.64518],
@@ -283,8 +283,8 @@ var config = {
             id: '14',
             alignment: 'left',
             hidden: false,
-            title: 'In Leni We Trust',
-            image: './images/montage.png',
+            title: 'Tunay at Pangmatagalang Pagbabago',
+            image: './images/IMG_2919.jpg',
             description: 'Address: Ipil St. Cor Lakandula St. Marikina Heights <br> Artist/s: Ferchie, Aiya, Maxenne, Ae, Aminah, Drex, Miguel, J. Buising, M. Hilahan, P. Anarna, C. Bunag, T. Germono, April H., Catherine T. Nathaniel Q., Jzryl S., Maxene W., Erylle B., Maxene Q., Lizbel H., Aiyana D., Aedam G., Miguel I., Janine A., Trisha D., Samantha D., Jazcinth L., Arkin A., Jasmine P., Lizbel, Katsumi, Miguel, April, Nathan, Maxenne, Erylle, Catherine, Janine',
             location: {
                 center: [121.11675, 14.64532],
@@ -303,7 +303,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Let Women Lead',
-            image: './images/montage.png',
+            image: './images/IMG_2937.jpg',
             description: 'Address: 12 Lakandula St. Marikina Heights <br> Artist/s: Unknown ',
             location: {
                 center: [121.11651, 14.64566],
@@ -322,7 +322,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Leni Mural',
-            image: './images/montage.png',
+            image: './images/IMG_2947.jpg',
             description: 'Address: 92 Ipil St. Marikina Heights <br> Artist/s: Unknown ',
             location: {
                 center: [121.11918, 14.64679],
@@ -341,7 +341,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Kulay Rosas ang Bukas',
-            image: './images/montage.png',
+            image: './images/IMG_2965.jpg',
             description: 'Address: 51 Champagnat St. Marikina Heights <br> Artist/s: C. Colegio, M. Delos Santos, M & M. Hilahan, P. Pascual, C&H Sandoval, C. Balderas, D. Tan, C. Santos',
             location: {
                 center: [121.11949, 14.64862],
@@ -360,7 +360,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'The Future is Women',
-            image: './images/montage.png',
+            image: './images/IMG_2984.jpg',
             description: 'Address: 11 G. Del Pilar St. Cor Sumulong St. Parang Marikina <br> Artist/s: UP Asterisk',
             location: {
                 center: [121.11395, 14.65771],

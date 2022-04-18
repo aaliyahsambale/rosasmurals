@@ -398,7 +398,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'The best MAN for the job is a WOMAN.',
-            image: './images/278200798_384947000139385_8816609713986390110_n.jpg',
+            image: './images/BARANGKA.jpeg',
             description: 'Address: Orchid St. Loyola Subdivision Barangka <br> Artist/s: Unknown',
             location: {
                 center: [121.0842247, 14.63831],

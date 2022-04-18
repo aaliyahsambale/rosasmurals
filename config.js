@@ -152,7 +152,7 @@ var config = {
             hidden: false,
             title: 'Lahat Kasama',
             image: './images/IMG_2993.jpg',
-            description: 'Address: Woodridge Heights Monark Avenue <br> Artist/s: Unknown ',
+            description: 'Address: Woodridge Heights Monark Avenue (Links School for Life) <br> Artist/s: Jake Del Rosario, Luigi Del Rosario, Ciara Del Rosario, Monica Mercado, Bavick Celera, Revil Gabriel, Bella Yela Bautista, Drei Cornelio, Bea Enriquez, Nathan Gabriel A. Bufi, Rafael Nicolas Cabrera, Katherina Fischeder, Nadine Bufi, Vince Rosales, Cody Bundoc, Unoni Abraham, Daniel de Guzman, Cedrick Caguing, Francine Nicholas, Michelle Santos, Pia David, Pat Valencia, Marie Panis, Bianca Ocbena, Claire Senga, Cher Agnes Senga, Joey Suyom, Euna Janna Dela Cruz, Julius Raz. ',
             location: {
                 center: [121.09407, 14.65579],
                 zoom: 18.13,

@@ -152,7 +152,7 @@ var config = {
             hidden: false,
             title: 'Lahat Kasama',
             image: './images/IMG_2993.jpg',
-            description: 'Address: Woodridge Heights Monarch Avenue <br> Artist/s: Unknown ',
+            description: 'Address: Woodridge Heights Monark Avenue <br> Artist/s: Unknown ',
             location: {
                 center: [121.09407, 14.65579],
                 zoom: 18.13,
@@ -375,7 +375,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '19',
+            id: 'montage',
             alignment: 'fully',
             hidden: false,
             //title: 'G. Del Pilar St. Cor Sumulong St. Parang Marikina',

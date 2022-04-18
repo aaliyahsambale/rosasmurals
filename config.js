@@ -376,13 +376,32 @@ var config = {
         },
         {
             id: '19',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'Bumoto ng tama para sa mga bata!',
             image: './images/278200798_384947000139385_8816609713986390110_n.jpg',
             description: 'Address: Guizama St., Concepcion Uno, Marikina (in front of Concepcion Elementary School)  <br> Artist/s: Tatak Youth for Leni-Kiko',
             location: {
                 center: [121.104089, 14.648529],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '20',
+            alignment: 'left',
+            hidden: false,
+            title: 'The best MAN for the job is a WOMAN.',
+            image: './images/278200798_384947000139385_8816609713986390110_n.jpg',
+            description: 'Address: Orchid St. Loyola Subdivision Barangka <br> Artist/s: Unknown',
+            location: {
+                center: [121.0842247, 14.63831],
                 zoom: 18.54,
                 pitch: 60,
                 bearing: 0

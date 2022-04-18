@@ -379,7 +379,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Bumoto ng tama para sa mga bata!',
-            image: './images/IMG_2984.jpg',
+            image: './images/278200798_384947000139385_8816609713986390110_n.jpg',
             description: 'Address: Guizama St., Concepcion Uno, Marikina (in front of Concepcion Elementary School)  <br> Artist/s: Tatak Youth for Leni-Kiko',
             location: {
                 center: [121.104089, 14.648529],

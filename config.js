@@ -413,6 +413,25 @@ var config = {
             onChapterExit: []
         },
         {
+            id: '21',
+            alignment: 'right',
+            hidden: false,
+            title: 'Gobyernong Tapat Angat Buhay Lahat',
+            image: './images/liberty ave.jpeg',
+            description: 'Address: 46-50 Liberty Ave, Cubao, Quezon City <br> Artist/s: Unknown',
+            location: {
+                center: [121.0589491, 14.6138632],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: 'montage',
             alignment: 'fully',
             hidden: false,

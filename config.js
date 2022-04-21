@@ -451,6 +451,63 @@ var config = {
             onChapterExit: []
         },
         {
+            id: '23',
+            alignment: 'right',
+            hidden: false,
+            title: 'Leni-Kiko Volunteer Center',
+            image: './images/katiphq.jpg',
+            description: 'Address: 284 Katipunan Ave, Quezon City <br> Artist/s: Unknown ',
+            location: {
+                center: [121.07405, 14.635021],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '24',
+            alignment: 'left',
+            hidden: false,
+            title: 'Palamig ka Muna',
+            image: './images/kasi.jpg',
+            description: 'Address: Kasi St. Cor. Del Pilar, Calumpang Marikina <br> Artist/s: ART MURAL 4 LENI, Ranie, Jerald, Ching, Jeremy, Eidderf, Alyssa, Nicole, Aeron ',
+            location: {
+                center: [121.0939882, 14.6219945],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '25',
+            alignment: 'right',
+            hidden: false,
+            title: 'Leni-Kiko Murals',
+            image: './images/samat.jpeg',
+            description: 'Address: 889 Samat Street and 175 Lopez Rizal cor., Mandaluyong  <br> Artist/s: Unknown',
+            location: {
+                center: [121.0492287, 14.5837346],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: 'montage',
             alignment: 'fully',
             hidden: false,

@@ -95,7 +95,7 @@ var config = {
             hidden: false,
             title: 'Sa Gobyernong Tapat Umaga ay Sasarap',
             image: './images/IMG_3022.jpg',
-            description: 'Address: 11 I. Mendoza St. Sta. Elena, Marikina <br> Artist/s: Unknown',
+            description: 'Address: 11 I. Mendoza St. Sta. Elena, Marikina <br> Artist/s: Fabo',
             location: {
                 center: [121.09597, 14.62923],
                 zoom: 16.97,
@@ -421,6 +421,25 @@ var config = {
             description: 'Address: 46-50 Liberty Ave, Cubao, Quezon City <br> Artist/s: Unknown',
             location: {
                 center: [121.0589491, 14.6138632],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '22',
+            alignment: 'left',
+            hidden: false,
+            title: 'The Leni-Kiko Wave',
+            image: './images/66BAYANBAYANAN.jpeg',
+            description: 'Address: 66 Bayan-Bayanan Ave. Marikina Heights (infront of Puregold Ayala Marikina Heights) <br> Artist/s: ART MURAL 4 LENI (Design: Jessica Rianna R. Diza; Volunteers: Vanessa Audrey S. Causing, Maria Morata, Nerisa Jenn Banaticla, Alyssa Susalta, Clark Esplanada)',
+            location: {
+                center: [121.1165213, 14.6481122],
                 zoom: 18.54,
                 pitch: 60,
                 bearing: 0

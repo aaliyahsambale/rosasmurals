@@ -19,7 +19,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'True Leaders Shoe Up & Arangkada Leni-Kiko',
-            image: './images/17JPRIZAL.jpg',
+            image: './images/17JPRIZAL.JPG',
             description: 'Address: 17 JP Rizal Calumpang, Marikina <br> Artist/s: ART MURAL 4 LENI (Design: Vanessa Audrey Causing Volunteers: Aeron Jerralj Resurreccion, Arci Igagamao, Jeremy Alonzo, Maki Angeles, Nicole Stodomingo, Rain Therese Manbiotan, Sophia Reyes, Zyra Salomon)',
             location: {
                 center: [121.09267, 14.62259],
@@ -50,7 +50,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Rosas ang Kulay ng Bukas',
-            image: './images/MAROXAS.jpg',
+            image: './images/MAROXAS.JPG',
             description: 'Address: 143 MA Roxas St. Calumpang, Marikina <br> Artist/s: ART MURAL 4 LENI (Design: Alyssa Susalta Volunteers: Aeron Jerralj Resurreccion, Jeremy Alonzo, Nicole Stodomingo, Vanessa Audrey Causing, Clark Esplanada)',
             location: {
                 center: [121.09331, 14.62289],

@@ -20,7 +20,7 @@ var config = {
             hidden: false,
             title: 'True Leaders Shoe Up',
             image: './images/jprizal.jpg',
-            description: 'Address: 17 JP Rizal Calumpang, Marikina <br> Artist/s: Unknown',
+            description: 'Address: 17 JP Rizal Calumpang, Marikina <br> Artist/s: ART MURAL 4 LENI (Design: Vanessa Audrey Causing Volunteers: Aeron Jerralj Resurreccion, Arci Igagamao, Jeremy Alonzo, Maki Angeles, Nicole Stodomingo, Rain Therese Manbiotan, Sophia Reyes, Zyra Salomon)',
             location: {
                 center: [121.09267, 14.62259],
                 zoom: 17.66,
@@ -51,7 +51,7 @@ var config = {
             hidden: false,
             title: 'Rosas ang Kulay ng Bukas',
             image: './images/IMG_2840.jpg',
-            description: 'Address: 143 MA Roxas St. Calumpang, Marikina <br> Artist/s: Unknown',
+            description: 'Address: 143 MA Roxas St. Calumpang, Marikina <br> Artist/s: ART MURAL 4 LENI (Design: Alyssa Susalta Volunteers: Aeron Jerralj Resurreccion, Jeremy Alonzo, Nicole Stodomingo, Vanessa Audrey Causing, Clark Esplanada)',
             location: {
                 center: [121.09331, 14.62289],
                 zoom: 17.06,
@@ -76,7 +76,7 @@ var config = {
             hidden: false,
             title: 'Leni-Kiko Mural',
             image: './images/abadsantos.jpg',
-            description: 'Address: Jose Abad Santos St. Cor Diego Silang St. San Roque, Marikina <br> Artist/s: Frain_Manbiotan, Jafet Mercado, @pudpodnalapis, @_sarcartist, @colthyy, xenia',
+            description: 'Address: Jose Abad Santos St. Cor Diego Silang St. San Roque, Marikina <br> Artist/s: ART MURAL 4 LENI, Frain_Manbiotan, Jafet Mercado, @pudpodnalapis, @_sarcartist, @colthyy, xenia',
             location: {
                 center: [121.09745, 14.62315],
                 zoom: 19,
@@ -152,7 +152,7 @@ var config = {
             hidden: false,
             title: 'Lahat Kasama',
             image: './images/IMG_2993.jpg',
-            description: 'Address: Woodridge Heights Monark Avenue (Links School for Life) <br> Artist/s: Jake Del Rosario, Luigi Del Rosario, Ciara Del Rosario, Monica Mercado, Bavick Celera, Revil Gabriel, Bella Yela Bautista, Drei Cornelio, Bea Enriquez, Nathan Gabriel A. Bufi, Rafael Nicolas Cabrera, Katherina Fischeder, Nadine Bufi, Vince Rosales, Cody Bundoc, Unoni Abraham, Daniel de Guzman, Cedrick Caguing, Francine Nicholas, Michelle Santos, Pia David, Pat Valencia, Marie Panis, Bianca Ocbena, Claire Senga, Cher Agnes Senga, Joey Suyom, Euna Janna Dela Cruz, Julius Raz. ',
+            description: 'Address: Woodridge Heights Monark Avenue (Links School for Life) <br> Artist/s: ART MURAL 4 LENI, Jake Del Rosario, Luigi Del Rosario, Ciara Del Rosario, Monica Mercado, Bavick Celera, Revil Gabriel, Bella Yela Bautista, Drei Cornelio, Bea Enriquez, Nathan Gabriel A. Bufi, Rafael Nicolas Cabrera, Katherina Fischeder, Nadine Bufi, Vince Rosales, Cody Bundoc, Unoni Abraham, Daniel de Guzman, Cedrick Caguing, Francine Nicholas, Michelle Santos, Pia David, Pat Valencia, Marie Panis, Bianca Ocbena, Claire Senga, Cher Agnes Senga, Joey Suyom, Euna Janna Dela Cruz, Julius Raz. ',
             location: {
                 center: [121.09407, 14.65579],
                 zoom: 18.13,
@@ -399,7 +399,7 @@ var config = {
             hidden: false,
             title: 'The best MAN for the job is a WOMAN.',
             image: './images/BARANGKA.jpeg',
-            description: 'Address: Orchid St. Loyola Subdivision Barangka <br> Artist/s: Unknown',
+            description: 'Address: Orchid St. Loyola Subdivision Barangka <br> Artist/s: ART MURAL 4 LENI',
             location: {
                 center: [121.0842247, 14.63831],
                 zoom: 18.54,

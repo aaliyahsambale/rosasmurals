@@ -508,6 +508,121 @@ var config = {
             onChapterExit: []
         },
         {
+            id: '26',
+            alignment: 'right',
+            hidden: false,
+            title: 'Ibalik ang Tiwala sa Gobyerno',
+            image: './images/ndomingo.jpeg',
+            description: 'Address: N. Domingo cor. H. Lozada St. San Juan, MM <br> Artist/s: Unknown ',
+            location: {
+                center: [121.026487, 14.6073814],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '27',
+            alignment: 'left',
+            hidden: false,
+            title: 'Kulay Rosas ang Bukas',
+            image: './images/qcveterans.jpeg',
+            description: 'Address: 33 Road B, Veterans Village, Quezon City, Metro Manila <br> Artist/s: Art Atak (Artists: AG Saño, Rashid Sandigan, Volunteers: Alonzo Cristobal, Angelo Manalo, Rommel Selorio, Che Cristobal, Dina Ocampo) ',
+            location: {
+                center: [121.02078, 14.65366],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '28',
+            alignment: 'right',
+            hidden: false,
+            title: 'Leni',
+            image: './images/goodshepherd.jpeg',
+            description: 'Address: Good Shepherd near Batino, Project 3, Quezon City, Metro Manila <br> Artist/s: Unknown',
+            location: {
+                center: [121.0710769, 14.630451],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '29',
+            alignment: 'left',
+            hidden: false,
+            title: 'Pililla for Leni-Kiko 2022',
+            image: './images/pililla.jpeg',
+            description: 'Address: Sitio Pahang, Halayhayin, Pililla <br> Artist/s: Unknown',
+            location: {
+                center: [121.3303827, 14.4523231],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '30',
+            alignment: 'right',
+            hidden: false,
+            title: 'Leni-Kiko 2022',
+            image: './images/batangas.jpeg',
+            description: 'Address: NDLY Palico, Batangas <br> Artist/s: Unknown',
+            location: {
+                center: [120.6957286, 14.04759],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '31',
+            alignment: 'left',
+            hidden: false,
+            title: 'Kulay Rosas ang Bukas',
+            image: './images/malabon.jpeg',
+            description: 'Address: Paseo de San Antonio Commercial Complex Gov. Pascual Ave, Malabon City <br> Artist/s: Unknown',
+            location: {
+                center: [120.9542127, 14.6709303],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+    
+        {
             id: 'montage',
             alignment: 'fully',
             hidden: false,

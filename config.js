@@ -103,7 +103,7 @@ var config = {
                 bearing: 0
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: false,
+            rotateAnimation: true,
             callback: '',
             onChapterEnter: [],
             onChapterExit: []
@@ -570,9 +570,9 @@ var config = {
             hidden: false,
             title: 'Pililla for Leni-Kiko 2022',
             image: './images/pililla.jpeg',
-            description: 'Address: Sitio Pahang, Halayhayin, Pililla <br> Artist/s: Unknown',
+            description: 'Address: M.A. Roxas St. Barangay Bagumbayan Pililla, Rizal<br> Artist/s: Unknown',
             location: {
-                center: [121.3303827, 14.4523231],
+                center: [121.312672, 14.4777131],
                 zoom: 18.54,
                 pitch: 60,
                 bearing: 0
@@ -631,7 +631,7 @@ var config = {
             description: 'For corrections and to add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1obi4KOITLK8v-AhdJ0NM6riAnw1cmYcG4-EB3tTG1M8/edit?usp=sharing" target="_blank">spreadsheet</a>.',
             location: {
                 center: [121.1033,14.6399],
-                zoom: 12,
+                zoom: 11,
                 pitch: 0,
                 bearing: 0
             },

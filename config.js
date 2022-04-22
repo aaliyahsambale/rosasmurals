@@ -171,7 +171,7 @@ var config = {
             hidden: false,
             title: 'Marikeños for Leni',
             image: './images/IMG_2851.jpg',
-            description: 'Address: Olive St. Cor Lilac St. Marikina <br> Artist/s: Unknown ',
+            description: 'Address: Olive St. Cor Lilac St. Marikina <br> Artist/s: Olive Mural Group, Abe Medenilla, Jeska Barayuga, May Topacio.',
             location: {
                 center: [121.12123, 14.63696],
                 zoom: 17.62,
@@ -226,7 +226,7 @@ var config = {
             id: '11',
             alignment: 'right',
             hidden: false,
-            title: 'Leni-Kiko Mural',
+            title: 'Ynang Kalayaan',
             image: './images/IMG_2881.jpg',
             description: 'Address: Bronze St. Cor Rainbow St. Marikina <br> Artist/s: Anthony Landusay, Aiyana Dimalanta ',
             location: {
@@ -245,9 +245,9 @@ var config = {
             id: '12',
             alignment: 'left',
             hidden: false,
-            title: 'Pag-Asa',
+            title: 'Liwanag sa karimlan',
             image: './images/IMG_2894.jpg',
-            description: 'Address: 73 Lakandula St. Marikina Heights <br> Artist/s: Anthony Landusay ',
+            description: 'Address: 73 Lakandula St. Marikina Heights <br> Artist/s: Anthony Landusay, Ding Royales, Marion Timtiman, Bryan Bayungan, Tednicolao Camahalan, Marvel Obenio, Martine Joy Irog, Rara Carillo, Rara Corpuz.',
             location: {
                 center: [121.11699, 14.64451],
                 zoom: 17.92,

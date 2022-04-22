@@ -630,8 +630,8 @@ var config = {
             image: './images/montage.png',
             description: 'For corrections and to add more to this map, submit an entry to this <a href="https://docs.google.com/spreadsheets/d/1obi4KOITLK8v-AhdJ0NM6riAnw1cmYcG4-EB3tTG1M8/edit?usp=sharing" target="_blank">spreadsheet</a>.',
             location: {
-                center: [121.1033,14.6399],
-                zoom: 11,
+                center: [121.190745, 14.537721],
+                zoom: 8.5,
                 pitch: 0,
                 bearing: 0
             },

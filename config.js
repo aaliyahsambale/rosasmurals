@@ -509,7 +509,7 @@ var config = {
         },
         {
             id: 'tawiran',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'Ihatid Natin Siya sa Malacañang',
             image: './images/IMG_4081.jpg',
@@ -528,7 +528,7 @@ var config = {
         },
         {
             id: 'evang1',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'Ipanalo Natin To',
             image: './images/IMG_4090.jpg',
@@ -566,7 +566,7 @@ var config = {
         },
         {
             id: 'evang3',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'Kay Leni Tayo',
             image: './images/IMG_4107.jpg',
@@ -604,7 +604,7 @@ var config = {
         },
         {
             id: 'evang5',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'Kulay Rosas ang Pasig',
             image: './images/IMG_4121.jpg',
@@ -642,7 +642,7 @@ var config = {
         },
         {
             id: 'evang7',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'The Last Man Standing is a Woman',
             image: './images/IMG_4132.jpg',
@@ -680,7 +680,7 @@ var config = {
         },
         {
             id: 'evang8',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'Husay at Talino',
             image: './images/IMG_4154.jpg',
@@ -718,7 +718,7 @@ var config = {
         },
         {
             id: 'fpacopasig',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'Rosas Gate',
             image: './images/IMG_4172.jpg',
@@ -813,7 +813,7 @@ var config = {
         },
         {
             id: '28',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'Leni',
             image: './images/goodshepherd.jpeg',
@@ -851,7 +851,7 @@ var config = {
         },
         {
             id: 'balaraqc',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'Byaheng Leni',
             image: './images/balaraqc.jpeg',
@@ -889,7 +889,7 @@ var config = {
         },
         {
             id: 'maginhawa',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'Leni-Kiko Mural',
             image: './images/maginhawa.jpg',
@@ -946,7 +946,7 @@ var config = {
         },
         {
             id: '26',
-            alignment: 'right',
+            alignment: 'left',
             hidden: false,
             title: 'Ibalik ang Tiwala sa Gobyerno',
             image: './images/ndomingo.jpeg',
@@ -984,7 +984,7 @@ var config = {
         },
         {
             id: 'malabon',
-            alignment: 'left',
+            alignment: 'right',
             hidden: false,
             title: 'Kulay Rosas ang Bukas',
             image: './images/malabon.jpeg',

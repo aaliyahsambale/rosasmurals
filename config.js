@@ -873,7 +873,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Leni-Kiko Mural',
-            image: './images/holyspirit.jpeg',
+            image: './images/holyspirit.jpg',
             description: 'Address: Plaza Andrea, Holy Spirit Drive, Quezon City <br> Artist/s: Kevin Moralita',
             location: {
                 center: [121.0786366,14.683215],

@@ -892,7 +892,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Leni-Kiko Mural',
-            image: './images/maginhawa.jpeg',
+            image: './images/maginhawa.jpg',
             description: 'Address: 19B Maginhawa, Quezon City <br> Artist/s: Unknown',
             location: {
                 center: [121.0556065,14.6516262],

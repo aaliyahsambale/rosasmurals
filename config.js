@@ -893,7 +893,7 @@ var config = {
             hidden: false,
             title: 'Leni-Kiko Mural',
             image: './images/maginhawa.jpeg',
-            description: 'Address: Plaza Andrea, Holy Spirit Drive, Quezon City <br> Artist/s: Unknown',
+            description: 'Address: 19B Maginhawa, Quezon City <br> Artist/s: Unknown',
             location: {
                 center: [121.0556065,14.6516262],
                 zoom: 18.54,
@@ -1025,7 +1025,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Leni-Kiko Mural',
-            image: './images/Kalawaan, Binangonan Rizal',
+            image: './images/binangonan.jpeg',
             description: 'Address: Kalawaan, Binangonan Rizal <br> Artist/s: Unknown',
             location: {
                 center: [121.1828551,14.4902853],

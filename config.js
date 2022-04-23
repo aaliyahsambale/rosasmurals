@@ -1101,7 +1101,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Leni-Kiko Mural',
-            image: './images/bataan.jpeg',
+            image: './images/balanga.jpeg',
             description: 'Address: Doña Francisca Subd. Balanga City, Bataan <br> Artist/s: Unknown',
             location: {
                 center: [120.5408871,14.684436],

@@ -337,6 +337,44 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'lopek',
+            alignment: 'right',
+            hidden: false,
+            title: 'Abante Babae Tibay at Husay',
+            image: './images/genordonez.jpeg',
+            description: 'Address: Gen. Ordonez St. cor Lope K Santos Marikina Heights <br> Artist/s: Grace Corpuz',
+            location: {
+                center: [121.119880,14.64596258],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '32',
+            alignment: 'right',
+            hidden: false,
+            title: 'Leni Mural',
+            image: './images/ordolilac.jpeg',
+            description: 'Address: General Ordoñez St. Cor Lilac St. Marikina Heights <br> Artist/s: Unknown',
+            location: {
+                center: [121.119358,14.6455552],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: '17',
             alignment: 'right',
             hidden: false,
@@ -611,6 +649,25 @@ var config = {
             description: 'Address: Paseo de San Antonio Commercial Complex Gov. Pascual Ave, Malabon City <br> Artist/s: Unknown',
             location: {
                 center: [120.9542127, 14.6709303],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '32',
+            alignment: 'right',
+            hidden: false,
+            title: '',
+            image: './images/',
+            description: 'Address: <br> Artist/s:',
+            location: {
+                center: [],
                 zoom: 18.54,
                 pitch: 60,
                 bearing: 0

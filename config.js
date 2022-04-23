@@ -15,6 +15,25 @@ var config = {
     footer: 'Source: <a href="https://github.com/aaliyahsambale/rosasmurals" target="_blank">Code</a> and <a href="https://github.com/aaliyahsambale/rosasmurals/tree/main/images" target="_blank">images</a>. <br> Thank you Youth for Vote for Leni - Marikina City and <a href="https://www.youtube.com/watch?v=-L-MW7Q8hhg&list=PLSQP2MHpAR2MAlIGYwL-mWs5NLRJeLKin" target="_blank">Pinoy Adventure Rider</a> for sharing the location of the murals. <br> Join this Facebook Group: Youth Vote for Leni - Marikina City and Murals for Leni - Volunteers 🌸🌸🌸. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
+            id: '24',
+            alignment: 'left',
+            hidden: false,
+            title: 'Palamig ka Muna',
+            image: './images/kasi.jpg',
+            description: 'Address: Kasi St. Cor. Del Pilar, Calumpang Marikina <br> Artist/s: ART MURAL 4 LENI, Ranie, Jerald, Ching, Jeremy, Eidderf, Alyssa, Nicole, Aeron ',
+            location: {
+                center: [121.0939882, 14.6219945],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: '1',
             alignment: 'left',
             hidden: false,
@@ -99,6 +118,25 @@ var config = {
             location: {
                 center: [121.09597, 14.62923],
                 zoom: 16.97,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'delapaz',
+            alignment: 'left',
+            hidden: false,
+            title: 'Kulay Rosas ang Bukas',
+            image: './images/delapazstonino.jpeg',
+            description: 'Address: E. De la Paz St., Sto. Niño, Marikina <br> Artist/s: Unknown',
+            location: {
+                center: [121.095634,14.6389297],
+                zoom: 18.54,
                 pitch: 60,
                 bearing: 0
             },
@@ -356,7 +394,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '32',
+            id: 'orfolilac',
             alignment: 'right',
             hidden: false,
             title: 'Leni Mural',
@@ -451,25 +489,6 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '21',
-            alignment: 'right',
-            hidden: false,
-            title: 'Gobyernong Tapat Angat Buhay Lahat',
-            image: './images/liberty ave.jpeg',
-            description: 'Address: 46-50 Liberty Ave, Cubao, Quezon City <br> Artist/s: Unknown',
-            location: {
-                center: [121.0589491, 14.6138632],
-                zoom: 18.54,
-                pitch: 60,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
             id: '22',
             alignment: 'left',
             hidden: false,
@@ -508,14 +527,109 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '24',
+            id: '28',
+            alignment: 'right',
+            hidden: false,
+            title: 'Leni',
+            image: './images/goodshepherd.jpeg',
+            description: 'Address: Good Shepherd near Batino, Project 3, Quezon City, Metro Manila <br> Artist/s: Unknown',
+            location: {
+                center: [121.0710769, 14.630451],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '21',
+            alignment: 'right',
+            hidden: false,
+            title: 'Gobyernong Tapat Angat Buhay Lahat',
+            image: './images/liberty ave.jpeg',
+            description: 'Address: 46-50 Liberty Ave, Cubao, Quezon City <br> Artist/s: Unknown',
+            location: {
+                center: [121.0589491, 14.6138632],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'balaraqc',
+            alignment: 'right',
+            hidden: false,
+            title: 'Byaheng Leni',
+            image: './images/balaraqc.jpeg',
+            description: 'Address: La Piazza Event Place by Albergus sa Capitol Hills Drive, Brgy. Matandang Balara, Quezon City <br> Artist/s: Unknown',
+            location: {
+                center: [121.076186,14.6636263],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'holyspirit',
+            alignment: 'right',
+            hidden: false,
+            title: 'Leni-Kiko Mural',
+            image: './images/holyspirit.jpeg',
+            description: 'Address: Plaza Andrea, Holy Spirit Drive, Quezon City <br> Artist/s: Kevin Moralita',
+            location: {
+                center: [121.0786366,14.683215],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'maginhawa',
+            alignment: 'right',
+            hidden: false,
+            title: 'Leni-Kiko Mural',
+            image: './images/maginhawa.jpeg',
+            description: 'Address: Plaza Andrea, Holy Spirit Drive, Quezon City <br> Artist/s: Unknown',
+            location: {
+                center: [121.0556065,14.6516262],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '27',
             alignment: 'left',
             hidden: false,
-            title: 'Palamig ka Muna',
-            image: './images/kasi.jpg',
-            description: 'Address: Kasi St. Cor. Del Pilar, Calumpang Marikina <br> Artist/s: ART MURAL 4 LENI, Ranie, Jerald, Ching, Jeremy, Eidderf, Alyssa, Nicole, Aeron ',
+            title: 'Kulay Rosas ang Bukas',
+            image: './images/qcveterans.jpeg',
+            description: 'Address: 33 Road B, Veterans Village, Quezon City, Metro Manila <br> Artist/s: Art Atak (Artists: AG Saño, Rashid Sandigan, Volunteers: Alonzo Cristobal, Angelo Manalo, Rommel Selorio, Che Cristobal, Dina Ocampo) ',
             location: {
-                center: [121.0939882, 14.6219945],
+                center: [121.02078, 14.65366],
                 zoom: 18.54,
                 pitch: 60,
                 bearing: 0
@@ -565,33 +679,14 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '27',
+            id: '31',
             alignment: 'left',
             hidden: false,
             title: 'Kulay Rosas ang Bukas',
-            image: './images/qcveterans.jpeg',
-            description: 'Address: 33 Road B, Veterans Village, Quezon City, Metro Manila <br> Artist/s: Art Atak (Artists: AG Saño, Rashid Sandigan, Volunteers: Alonzo Cristobal, Angelo Manalo, Rommel Selorio, Che Cristobal, Dina Ocampo) ',
+            image: './images/malabon.jpeg',
+            description: 'Address: Paseo de San Antonio Commercial Complex Gov. Pascual Ave, Malabon City <br> Artist/s: Unknown',
             location: {
-                center: [121.02078, 14.65366],
-                zoom: 18.54,
-                pitch: 60,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: '28',
-            alignment: 'right',
-            hidden: false,
-            title: 'Leni',
-            image: './images/goodshepherd.jpeg',
-            description: 'Address: Good Shepherd near Batino, Project 3, Quezon City, Metro Manila <br> Artist/s: Unknown',
-            location: {
-                center: [121.0710769, 14.630451],
+                center: [120.9542127, 14.6709303],
                 zoom: 18.54,
                 pitch: 60,
                 bearing: 0
@@ -622,7 +717,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '30',
+            id: 'batangas',
             alignment: 'right',
             hidden: false,
             title: 'Leni-Kiko 2022',
@@ -641,14 +736,33 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '31',
-            alignment: 'left',
+            id: 'pampanga',
+            alignment: 'right',
             hidden: false,
-            title: 'Kulay Rosas ang Bukas',
-            image: './images/malabon.jpeg',
-            description: 'Address: Paseo de San Antonio Commercial Complex Gov. Pascual Ave, Malabon City <br> Artist/s: Unknown',
+            title: 'Mas Radikal Magmahal',
+            image: './images/guagua.jpeg',
+            description: 'Address: San Pedro, Guagua, Pampanga (in front of Caltex San Pedro) <br> Artist/s: Manuel Madrid and Volunteers from Youth for Leni-Kiko Guagua',
             location: {
-                center: [120.9542127, 14.6709303],
+                center: [120.6279806,14.9645142],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'bataan',
+            alignment: 'right',
+            hidden: false,
+            title: 'Leni-Kiko Mural',
+            image: './images/bataan.jpeg',
+            description: 'Address: Doña Francisca Subd. Balanga City, Bataan <br> Artist/s: Unknown',
+            location: {
+                center: [120.5408871,14.684436],
                 zoom: 18.54,
                 pitch: 60,
                 bearing: 0

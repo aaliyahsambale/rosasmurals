@@ -11,7 +11,7 @@ var config = {
     use3dTerrain: false, //set true for enabling 3D maps.
     title: 'Art Murals for Leni-Kiko',
     subtitle: 'Mga artista at kabataang tumitindig para sa kulay rosas na bukas.',
-    byline: 'By: Aaliyah Sambale (<a href="https://www.facebook.com/aaliyahsambale" target="_blank">facebook</a>, <a href="https://www.instagram.com/aaliyuhninjuh/" target="_blank">instagram</a>)',
+    byline: 'By: Aaliyah Sambale <a href="https://www.facebook.com/aaliyahsambale" target="_blank">facebook</a>, <a href="https://www.instagram.com/aaliyuhninjuh/" target="_blank">instagram</a>',
     footer: 'Source: <a href="https://github.com/aaliyahsambale/rosasmurals" target="_blank">Code</a> and <a href="https://github.com/aaliyahsambale/rosasmurals/tree/main/images" target="_blank">images</a>. <br> Thank you Youth for Vote for Leni - Marikina City and <a href="https://www.youtube.com/watch?v=-L-MW7Q8hhg&list=PLSQP2MHpAR2MAlIGYwL-mWs5NLRJeLKin" target="_blank">Pinoy Adventure Rider</a> for sharing the location of the murals. <br> Join this Facebook Group: Youth Vote for Leni - Marikina City and Murals for Leni - Volunteers 🌸🌸🌸. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {

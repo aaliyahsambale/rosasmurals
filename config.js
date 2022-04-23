@@ -698,7 +698,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '31',
+            id: 'malabon',
             alignment: 'left',
             hidden: false,
             title: 'Kulay Rosas ang Bukas',
@@ -830,6 +830,254 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
+        {
+            id: 'tawiran',
+            alignment: 'left',
+            hidden: false,
+            title: 'Ihatid Natin Siya sa Malacañang',
+            image: './images/IMG_4801.jpg',
+            description: 'Address: Evangelista corner Tawiran, Santolan, Pasig <br> Artist/s: Santoleños for Leni-Kiko',
+            location: {
+                center: [121.08584208414,14.610838555496],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'evang1',
+            alignment: 'right',
+            hidden: false,
+            title: 'Ipanalo Natin To',
+            image: './images/IMG_4090.jpg',
+            description: 'Address: Evangelista St, Pasig, 1800 Metro Manila <br> Artist/s: Santoleños for Leni-Kiko',
+            location: {
+                center: [121.085244454443,14.611401285184],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'evang2',
+            alignment: 'right',
+            hidden: false,
+            title: 'Rosas Gate',
+            image: './images/IMG_4097.jpg',
+            description: 'Address: Evangelista St, Pasig, 1800 Metro Manila <br> Artist/s: Santoleños for Leni-Kiko',
+            location: {
+                center: [121.0851235874,14.611506401437],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'evang3',
+            alignment: 'right',
+            hidden: false,
+            title: 'Kay Leni Tayo',
+            image: './images/IMG_4107.jpg',
+            description: 'Address: Evangelista St, Pasig, 1800 Metro Manila <br> Artist/s: Santoleños for Leni-Kiko',
+            location: {
+                center: [121.084720250219,14.612155103871],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'evang4',
+            alignment: 'right',
+            hidden: false,
+            title: 'Leni at Kiko',
+            image: './images/IMG_4116.jpg',
+            description: 'Address: Evangelista St, Pasig, 1800 Metro Manila <br> Artist/s: Santoleños for Leni-Kiko',
+            location: {
+                center: [121.083946097642,14.612952393687],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'evang5',
+            alignment: 'right',
+            hidden: false,
+            title: 'Kulay Rosas ang Pasig',
+            image: './images/IMG_4121.jpg',
+            description: 'Address: Evangelista St, Pasig, 1800 Metro Manila <br> Artist/s: Santoleños for Leni-Kiko',
+            location: {
+                center: [121.0834442,14.613445852181],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'evang6',
+            alignment: 'right',
+            hidden: false,
+            title: 'Leni at Kiko',
+            image: './images/IMG_4126.jpg',
+            description: 'Address: Evangelista St, Pasig, 1800 Metro Manila <br> Artist/s: Santoleños for Leni-Kiko',
+            location: {
+                center: [121.08254045248,14.614277364545],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'evang7',
+            alignment: 'right',
+            hidden: false,
+            title: 'The Last Man Standing is a Woman',
+            image: './images/IMG_4132.jpg',
+            description: 'Address: Evangelista St, Pasig, 1800 Metro Manila <br> Artist/s: Santoleños for Leni-Kiko',
+            location: {
+                center: [121.082424782217,14.614467317475],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'mayon',
+            alignment: 'right',
+            hidden: false,
+            title: 'The Best Man for the Job is a Woman',
+            image: './images/IMG_4151.jpg',
+            description: 'Address: Road 1 Maria Soledad Subdivision, Santolan, Pasig <br> Artist/s: Santoleños for Leni-Kiko',
+            location: {
+                center: [121.082048099488,14.616300817112],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '32',
+            alignment: 'right',
+            hidden: false,
+            title: 'Husay at Talino',
+            image: './images/IMG_4154.jpg',
+            description: 'Address: <br> Evangelista St, Pasig, 1800 Metro Manila Artist/s: Santoleños for Leni-Kiko',
+            location: {
+                center: [121.0814272,14.616452810511],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '32',
+            alignment: 'right',
+            hidden: false,
+            title: '',
+            image: './images/IMG_4168.jpg',
+            description: 'Address: <br> Artist/s:  Santoleños for Leni-Kiko',
+            location: {
+                center: [],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '32',
+            alignment: 'right',
+            hidden: false,
+            title: '',
+            image: './images/IMG_4172.jpg',
+            description: 'Address: <br> Artist/s: Santoleños for Leni-Kiko',
+            location: {
+                center: [],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: 'IMG_4171 .jpg',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '32',
+            alignment: 'right',
+            hidden: false,
+            title: '',
+            image: './images/IMG_4192.jpg',
+            description: 'Address: <br> Artist/s: Santoleños for Leni-Kiko',
+            location: {
+                center: [],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+
         {
             id: '32',
             alignment: 'right',

@@ -774,14 +774,14 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '32',
-            alignment: 'right',
+            id: '23',
+            alignment: 'fully',
             hidden: false,
-            title: '',
-            image: './images/',
-            description: 'Address: <br> Artist/s:',
+            title: 'Leni-Kiko Volunteer Center',
+            image: './images/katiphq.jpg',
+            description: 'Address: 284 Katipunan Ave, Quezon City <br> Artist/s: Unknown ',
             location: {
-                center: [],
+                center: [121.07405, 14.635021],
                 zoom: 18.54,
                 pitch: 60,
                 bearing: 0
@@ -793,14 +793,14 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '23',
-            alignment: 'fully',
+            id: 'manggahan',
+            alignment: 'right',
             hidden: false,
-            title: 'Leni-Kiko Volunteer Center',
-            image: './images/katiphq.jpg',
-            description: 'Address: 284 Katipunan Ave, Quezon City <br> Artist/s: Unknown ',
+            title: 'Angat Buhay Lahat',
+            image: './images/manggahan.jpeg',
+            description: 'Address: Gomez St., Manggahan, Pasig City <br> Artist/s: Unknown',
             location: {
-                center: [121.07405, 14.635021],
+                center: [121.094744,14.6000636],
                 zoom: 18.54,
                 pitch: 60,
                 bearing: 0

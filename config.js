@@ -679,6 +679,25 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'makati',
+            alignment: 'left',
+            hidden: false,
+            title: 'Lets Be Leni',
+            image: './images/makati.jpeg',
+            description: 'Address: Mayapis cor Sampaloc, San Antonio Village Makati <br> Artist/s: Unknown',
+            location: {
+                center: [121.006024,14.5620563],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: '31',
             alignment: 'left',
             hidden: false,
@@ -687,6 +706,44 @@ var config = {
             description: 'Address: Paseo de San Antonio Commercial Complex Gov. Pascual Ave, Malabon City <br> Artist/s: Unknown',
             location: {
                 center: [120.9542127, 14.6709303],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'angono',
+            alignment: 'right',
+            hidden: false,
+            title: 'Walang Maiiwan Dahil Iisa Lang Ang Pinaglalaban',
+            image: './images/angono.jpeg',
+            description: 'Address: Al Ribaya Rose Garden Event Center along Ibañez Street, Angono, Rizal <br> Artist/s: Unknown',
+            location: {
+                center: [121.1484424,14.5250019],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'binangonan',
+            alignment: 'left',
+            hidden: false,
+            title: 'Leni-Kiko Mural',
+            image: './images/Kalawaan, Binangonan Rizal',
+            description: 'Address: Kalawaan, Binangonan Rizal <br> Artist/s: Unknown',
+            location: {
+                center: [121.1828551,14.4902853],
                 zoom: 18.54,
                 pitch: 60,
                 bearing: 0
@@ -792,7 +849,6 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
-
         {
             id: 'montage',
             alignment: 'fully',

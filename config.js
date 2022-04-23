@@ -512,7 +512,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Ihatid Natin Siya sa Malacañang',
-            image: './images/IMG_4801.jpg',
+            image: './images/IMG_4081.jpg',
             description: 'Address: Evangelista corner Tawiran, Santolan, Pasig <br> Artist/s: Santoleños for Leni-Kiko',
             location: {
                 center: [121.08584208414,14.610838555496],

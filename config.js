@@ -1002,7 +1002,7 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '32',
+            id: 'evang8',
             alignment: 'right',
             hidden: false,
             title: 'Husay at Talino',
@@ -1021,14 +1021,14 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '32',
+            id: 'diamondpasig',
             alignment: 'right',
             hidden: false,
-            title: '',
+            title: 'Kulay Rosas ang Bukas',
             image: './images/IMG_4168.jpg',
-            description: 'Address: <br> Artist/s:  Santoleños for Leni-Kiko',
+            description: 'Address: Diamond (Maria Soledad Subdivision), Santolan, Pasig <br> Artist/s:  Santoleños for Leni-Kiko',
             location: {
-                center: [],
+                center: [121.082796435803,14.61940717147],
                 zoom: 18.54,
                 pitch: 60,
                 bearing: 0
@@ -1040,14 +1040,14 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '32',
+            id: 'fpacopasig',
             alignment: 'right',
             hidden: false,
-            title: '',
+            title: 'Rosas Gate',
             image: './images/IMG_4172.jpg',
-            description: 'Address: <br> Artist/s: Santoleños for Leni-Kiko',
+            description: 'Address: F. Paco Avenue corner Jade Street Santolan, Pasig <br> Artist/s: Santoleños for Leni-Kiko',
             location: {
-                center: [],
+                center: [121.082843709737,14.618545993871],
                 zoom: 18.54,
                 pitch: 60,
                 bearing: 0
@@ -1059,14 +1059,14 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '32',
+            id: 'stalucipasig',
             alignment: 'right',
             hidden: false,
-            title: '',
-            image: './images/IMG_4192.jpg',
-            description: 'Address: <br> Artist/s: Santoleños for Leni-Kiko',
+            title: 'Leni Kiko',
+            image: './images/IMG_4171.jpg',
+            description: 'Address: Santa Lucia, Santolan, Pasig <br> Artist/s: Santoleños for Leni-Kiko',
             location: {
-                center: [],
+                center: [121.084725446999,14.616421341236],
                 zoom: 18.54,
                 pitch: 60,
                 bearing: 0
@@ -1077,7 +1077,25 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
-
+        {
+            id: 'grandmuralsantolan',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Santoleños for Leni',
+            image: './images/IMG_4192.jpg',
+            description: 'Address: Santo Domingo Street corner San Antonio, Santolan, Pasig<br> Artist/s: Santoleños for Leni-Kiko',
+            location: {
+                center: [121.083587687463,14.614548424568],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
         {
             id: '32',
             alignment: 'right',

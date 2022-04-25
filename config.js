@@ -722,7 +722,7 @@ var config = {
             hidden: false,
             title: 'Rosas Gate',
             image: './images/IMG_4172.jpg',
-            description: 'Address: F. Paco Avenue corner Jade Street Santolan, Pasig <br> Artist/s: Santoleños for Leni-Kiko',
+            description: 'Address: F. Pasco Avenue corner Jade Street Santolan, Pasig <br> Artist/s: Santoleños for Leni-Kiko',
             location: {
                 center: [121.082843709737,14.618545993871],
                 zoom: 18.54,
@@ -1105,6 +1105,25 @@ var config = {
             description: 'Address: Doña Francisca Subd. Balanga City, Bataan <br> Artist/s: Unknown',
             location: {
                 center: [120.5408871,14.684436],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'lsa-iligan',
+            alignment: 'left',
+            hidden: false,
+            title: 'La Salle Academy Mural',
+            image: './images/lsa-iligan.jpeg',
+            description: 'Address: Bro. Raymund Jeffrey Rd, Pala-o, Iligan City  <br> Artist/s: LSA & IITians volunteers',
+            location: {
+                center: [124.246499, 8.232511],
                 zoom: 18.54,
                 pitch: 60,
                 bearing: 0

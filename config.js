@@ -12,7 +12,7 @@ var config = {
     title: 'Art Murals for Leni-Kiko',
     subtitle: 'Mga artista at kabataang tumitindig para sa kulay rosas na bukas.',
     byline: 'By: Aaliyah Sambale (fb - aaliyahsambale, ig - @aaliyuhninjuh)',
-    footer: 'Source: <a href="https://github.com/aaliyahsambale/rosasmurals" target="_blank">Code</a> and <a href="https://github.com/aaliyahsambale/rosasmurals/tree/main/images" target="_blank">images</a>. <br> Thank you Youth for Vote for Leni - Marikina City and <a href="https://www.youtube.com/watch?v=-L-MW7Q8hhg&list=PLSQP2MHpAR2MAlIGYwL-mWs5NLRJeLKin" target="_blank">Pinoy Adventure Rider</a> for sharing the location of the murals. <br> Join this Facebook Group: Youth Vote for Leni - Marikina City and Murals for Leni - Volunteers 🌸🌸🌸. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
+    footer: '<a href="https://github.com/aaliyahsambale/rosasmurals" target="_blank">Code</a> and <a href="https://github.com/aaliyahsambale/rosasmurals/tree/main/images" target="_blank">images</a>.<br> Special thanks to:<br><a href="https://www.facebook.com/groups/290894146192646" target="_blank">Youth for Vote for Leni - Marikina City</a><br><a href="https://www.youtube.com/watch?v=-L-MW7Q8hhg&list=PLSQP2MHpAR2MAlIGYwL-mWs5NLRJeLKin" target="_blank">Pinoy Adventure Rider</a><br><a href="https://www.facebook.com/santolenosforleni" target="_blank">Santolan for LeniKiko</a><br> <a href="https://www.facebook.com/groups/1111286456288772" target="_blank">Murals for Leni - Volunteers 🌸🌸🌸</a>. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
             id: '24',

@@ -152,7 +152,7 @@ var config = {
             hidden: false,
             title: 'LENI 2022',
             image: './images/IMG_3016.jpg',
-            description: 'Address: 2nd St. Paliparan Sto Niño Marikina <br> Artist/s: @maryimbong ',
+            description: 'Address: 29 2nd St. Paliparan Sto Niño, Marikina, 1800<br> Artist/s: Mary Imbong, Joe Don Garcia, Lily Beltran, Monique Pe Benito',
             location: {
                 center: [121.09974, 14.63937],
                 zoom: 17.52,

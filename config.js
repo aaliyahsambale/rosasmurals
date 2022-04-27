@@ -380,28 +380,9 @@ var config = {
             hidden: false,
             title: '',
             image: './images/deafcom.jpeg',
-            description: 'Address: St. Maria Mattias Center Ipil St., Marikina  <br> Artist/s: Deaf for Leni-Kiko ',
+            description: 'Address: St. Maria Mattias Center Ipil St., Marikina Heights <br> Artist/s: Deaf for Leni-Kiko ',
             location: {
                 center: [121.120534,14.6501876],
-                zoom: 18,
-                pitch: 60,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: '',
-            alignment: 'right',
-            hidden: false,
-            title: '',
-            image: './images/',
-            description: 'Address: <br> Artist/s: Unknown ',
-            location: {
-                center: [],
                 zoom: 18,
                 pitch: 60,
                 bearing: 0
@@ -812,6 +793,63 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'angono',
+            alignment: 'right',
+            hidden: false,
+            title: 'Walang Maiiwan Dahil Iisa Lang Ang Pinaglalaban',
+            image: './images/angono.jpeg',
+            description: 'Address: Al Ribaya Rose Garden Event Center along Ibañez Street, Angono, Rizal <br> Artist/s: Unknown',
+            location: {
+                center: [121.1484424,14.5250019],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'binangonan',
+            alignment: 'left',
+            hidden: false,
+            title: 'Leni-Kiko Mural',
+            image: './images/binangonan.jpeg',
+            description: 'Address: Kalawaan, Binangonan Rizal <br> Artist/s: Unknown',
+            location: {
+                center: [121.1828551,14.4902853],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '29',
+            alignment: 'left',
+            hidden: false,
+            title: 'Pililla for Leni-Kiko 2022',
+            image: './images/pililla.jpeg',
+            description: 'Address: M.A. Roxas St. Barangay Bagumbayan Pililla, Rizal<br> Artist/s: Unknown',
+            location: {
+                center: [121.312672, 14.4777131],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: '23',
             alignment: 'fully',
             hidden: false,
@@ -850,15 +888,34 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'ILOG',
+            id: 'santodomingo',
+            alignment: 'left',
+            hidden: false,
+            title: 'Para sa Kulay Rosas na Bukas',
+            image: './images/ilog.jpg',
+            description: 'Address: Sgt. de Leon & Paseo De Animales, Pasig <br> Artist/s: Santoleños for Leni-Kiko',
+            location: {
+                center: [121.0806076,14.614945],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'drsixto',
             alignment: 'right',
             hidden: false,
-            title: 'Angat Buhay Lahat',
-            image: './images/manggahan.jpeg',
-            description: 'Address: Gomez St., Manggahan, Pasig City <br> Artist/s: Unknown',
+            title: 'Kulay Rosas ang Bukas',
+            image: './images/sixtoave.jpeg',
+            description: 'Address: 381 Dr Sixto Antonio Avenue, Pasig <br> Artist/s: Unknown ',
             location: {
-                center: [121.094744,14.6000636],
-                zoom: 18.54,
+                center: [121.0833429,14.5818318],
+                zoom: 18,
                 pitch: 60,
                 bearing: 0
             },
@@ -983,6 +1040,120 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'novaliches',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Leni-Kiko Para sa Kinabukasan ng mga Bata',
+            image: './images/novaliches.jpeg',
+            description: 'Address: Dahlia corner Fairlane Fairview Novaliches, QC <br> Artist/s: Unknown ',
+            location: {
+                center: [121.0661296,14.6998458],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'morningbreeze',
+            alignment: 'left',
+            hidden: false,
+            title: 'Leni-Kiko Mural',
+            image: './images/morningbreeze.jpeg',
+            description: 'Address: 117 Asuncion Morning Breeze Subd. Caloocan City <br> Artist/s: Youth for Leni Caloocan ',
+            location: {
+                center: [120.987524110637,14.6588269840316],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'eyeclinic',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Angat Lahat',
+            image: './images/eyecare.jpg',
+            description: 'Address: R. De Guzman Eye Care Optical Clinic, J.Teodoro, Grace Park West, Caloocan City <br> Artist/s: Youth for Leni Caloocan ',
+            location: {
+                center: [120.982935671209,14.6503843201157],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'kapih',
+            alignment: 'right',
+            hidden: false,
+            title: 'LENIwanag Para Sa KIKOnabukasan',
+            image: './images/glow.gif',
+            description: 'Address: KAPIH Deparo, North Caloocan <br> Artist/s: Jad Dela Cruz and friends ',
+            location: {
+                center: [121.020955,14.740942],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'alonzo',
+            alignment: 'left',
+            hidden: false,
+            title: 'Leni-Kiko Para Sa Pilipinas',
+            image: './images/alonzo.jpg',
+            description: 'Address: Alonzo Drive, Deparo, North Caloocan <br> Artist/s: Jad Dela Cruz, Abi Sillas, Denice Mendoza, Romajean Bulan, Pina Lomibao, Jela Cabingue, Trisha Mae, Madie Arron, Josh Zee',
+            location: {
+                center: [121.0307808,14.7389035],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'malabon',
+            alignment: 'right',
+            hidden: false,
+            title: 'Kulay Rosas ang Bukas',
+            image: './images/malabon.jpeg',
+            description: 'Address: Paseo de San Antonio Commercial Complex Gov. Pascual Ave, Malabon City <br> Artist/s: Unknown',
+            location: {
+                center: [120.9542127, 14.6709303],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: '25',
             alignment: 'right',
             hidden: false,
@@ -1040,53 +1211,15 @@ var config = {
             onChapterExit: []
         },
         {
-            id: 'malabon',
+            id: 'pandacan',
             alignment: 'right',
-            hidden: false,
-            title: 'Kulay Rosas ang Bukas',
-            image: './images/malabon.jpeg',
-            description: 'Address: Paseo de San Antonio Commercial Complex Gov. Pascual Ave, Malabon City <br> Artist/s: Unknown',
-            location: {
-                center: [120.9542127, 14.6709303],
-                zoom: 18.54,
-                pitch: 60,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: 'angono',
-            alignment: 'right',
-            hidden: false,
-            title: 'Walang Maiiwan Dahil Iisa Lang Ang Pinaglalaban',
-            image: './images/angono.jpeg',
-            description: 'Address: Al Ribaya Rose Garden Event Center along Ibañez Street, Angono, Rizal <br> Artist/s: Unknown',
-            location: {
-                center: [121.1484424,14.5250019],
-                zoom: 18.54,
-                pitch: 60,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: 'binangonan',
-            alignment: 'left',
             hidden: false,
             title: 'Leni-Kiko Mural',
-            image: './images/binangonan.jpeg',
-            description: 'Address: Kalawaan, Binangonan Rizal <br> Artist/s: Unknown',
+            image: './images/pandacan.jpeg',
+            description: 'Address: Beata St. Pandacan, Manila Distrito 6, Manila <br> Artist/s: Unknown ',
             location: {
-                center: [121.1828551,14.4902853],
-                zoom: 18.54,
+                center: [121.0076873,14.5911219],
+                zoom: 18,
                 pitch: 60,
                 bearing: 0
             },
@@ -1097,15 +1230,15 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '29',
+            id: 'cavite',
             alignment: 'left',
             hidden: false,
-            title: 'Pililla for Leni-Kiko 2022',
-            image: './images/pililla.jpeg',
-            description: 'Address: M.A. Roxas St. Barangay Bagumbayan Pililla, Rizal<br> Artist/s: Unknown',
+            title: 'Sigaw ng Kabiteno: Leni Robreo Kiko Pangilinan',
+            image: './images/dasma.jpeg',
+            description: 'Address:Dasmarinas Volunteer Center 9044 Aguinaldo Highway, Corner Marilag St, Dasmariñas  <br> Artist/s: Unknown ',
             location: {
-                center: [121.312672, 14.4777131],
-                zoom: 18.54,
+                center: [120.9397731,14.3292892],
+                zoom: 18,
                 pitch: 60,
                 bearing: 0
             },
@@ -1154,6 +1287,25 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'sariaya',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Sariaya for Leni-Kiko',
+            image: './images/camsur.jpeg',
+            description: 'Address: Sariaya, Quezon <br> Artist/s: Jairus Anlacan , Ian Graemar Almazan, Zyra Olivenne Pelaez Alicante, Stacey Lorraine Borero, Gabriel Manalo, John Wayne Bautista, Elise Margrette Abastillas, Kaori Chen Laviña , Akira Yessha Laviña, Alyssa Alzaga, April John Javelosa , Glenne Pada, Ramcel Christian Alba, Jeron Mendoza, Jan Karlo Luna, Jhayson Jamin Samonte, Johaira Laurel Sarip, Cyriss Marie, Kyle Fender Lacson, Rei Pasumbal , Francis Dyro Alpay Cabanas, Ned Glory',
+            location: {
+                center: [121.4788594,13.9317877],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: 'bataan',
             alignment: 'left',
             hidden: false,
@@ -1163,6 +1315,25 @@ var config = {
             location: {
                 center: [120.5408871,14.684436],
                 zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'camsur',
+            alignment: 'left',
+            hidden: false,
+            title: 'Radikal Magmahal!',
+            image: './images/camsur.jpeg',
+            description: 'Address:Potot, Libmanan, Cam Sur <br> Artist/s: Salingoy Art Group, Rein Ledesma, Geraldvic Badong, Jebo Padernal, & Junie Linsoco ',
+            location: {
+                center: [123.039735,13.6802069],
+                zoom: 18,
                 pitch: 60,
                 bearing: 0
             },

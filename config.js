@@ -1291,7 +1291,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Sariaya for Leni-Kiko',
-            image: './images/camsur.jpeg',
+            image: './images/sariaya.jpeg',
             description: 'Address: Sariaya, Quezon <br> Artist/s: Jairus Anlacan , Ian Graemar Almazan, Zyra Olivenne Pelaez Alicante, Stacey Lorraine Borero, Gabriel Manalo, John Wayne Bautista, Elise Margrette Abastillas, Kaori Chen Laviña , Akira Yessha Laviña, Alyssa Alzaga, April John Javelosa , Glenne Pada, Ramcel Christian Alba, Jeron Mendoza, Jan Karlo Luna, Jhayson Jamin Samonte, Johaira Laurel Sarip, Cyriss Marie, Kyle Fender Lacson, Rei Pasumbal , Francis Dyro Alpay Cabanas, Ned Glory',
             location: {
                 center: [121.4788594,13.9317877],

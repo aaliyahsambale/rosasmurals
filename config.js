@@ -375,6 +375,44 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'deafcom',
+            alignment: 'right',
+            hidden: false,
+            title: '',
+            image: './images/deafcom.jpeg',
+            description: 'Address: St. Maria Mattias Center Ipil St., Marikina  <br> Artist/s: Deaf for Leni-Kiko ',
+            location: {
+                center: [121.120534,14.6501876],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '',
+            alignment: 'right',
+            hidden: false,
+            title: '',
+            image: './images/',
+            description: 'Address: <br> Artist/s: Unknown ',
+            location: {
+                center: [],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: 'lopek',
             alignment: 'right',
             hidden: false,
@@ -794,6 +832,25 @@ var config = {
         },
         {
             id: 'manggahan',
+            alignment: 'right',
+            hidden: false,
+            title: 'Angat Buhay Lahat',
+            image: './images/manggahan.jpeg',
+            description: 'Address: Gomez St., Manggahan, Pasig City <br> Artist/s: Unknown',
+            location: {
+                center: [121.094744,14.6000636],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'ILOG',
             alignment: 'right',
             hidden: false,
             title: 'Angat Buhay Lahat',

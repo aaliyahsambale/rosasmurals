@@ -817,7 +817,7 @@ var config = {
             hidden: false,
             title: 'Leni-Kiko Mural',
             image: './images/binangonan.jpeg',
-            description: 'Address: Kalawaan, Binangonan Rizal <br> Artist/s: Unknown',
+            description: 'Address: Kalawaan, Binangonan Rizal <br> Artist/s: Jenny Lyn Nepumoceno Villegas',
             location: {
                 center: [121.1828551,14.4902853],
                 zoom: 18.54,

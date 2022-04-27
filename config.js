@@ -1326,7 +1326,7 @@ var config = {
         },
         {
             id: 'camsur',
-            alignment: 'left',
+            alignment: 'fully',
             hidden: false,
             title: 'Radikal Magmahal!',
             image: './images/camsur.jpeg',

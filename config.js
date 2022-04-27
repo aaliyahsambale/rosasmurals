@@ -1082,7 +1082,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Angat Lahat',
-            image: './images/eyecare.jpg',
+            image: './images/eyecare.JPG',
             description: 'Address: R. De Guzman Eye Care Optical Clinic, J.Teodoro, Grace Park West, Caloocan City <br> Artist/s: Youth for Leni Caloocan ',
             location: {
                 center: [120.982935671209,14.6503843201157],

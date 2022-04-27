@@ -1311,9 +1311,9 @@ var config = {
             hidden: false,
             title: 'Leni-Kiko Mural',
             image: './images/balanga.jpeg',
-            description: 'Address: Doña Francisca Subd. Balanga City, Bataan <br> Artist/s: Unknown',
+            description: 'Address: Cuaderno Corner Dama de Noche Streets, Dona Francisca Subdivision 2100 Balanga, Philippines<br> Artist/s: Jommel Carreon Pilar',
             location: {
-                center: [120.5408871,14.684436],
+                center: [120.544591, 14.6835272],
                 zoom: 18.54,
                 pitch: 60,
                 bearing: 0

@@ -1233,7 +1233,7 @@ var config = {
             id: 'cavite',
             alignment: 'left',
             hidden: false,
-            title: 'Sigaw ng Kabiteno: Leni Robreo Kiko Pangilinan',
+            title: 'Sigaw ng Kabiteno: Leni Robredo Kiko Pangilinan',
             image: './images/dasma.jpeg',
             description: 'Address:Dasmarinas Volunteer Center 9044 Aguinaldo Highway, Corner Marilag St, Dasmariñas  <br> Artist/s: Unknown ',
             location: {

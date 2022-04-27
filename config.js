@@ -931,7 +931,7 @@ var config = {
             hidden: false,
             title: 'Leni-Kiko Murals',
             image: './images/samat.jpeg',
-            description: 'Address: 889 Samat Street and 175 Lopez Rizal cor., Mandaluyong <br> Artist/s: Unknown',
+            description: 'Address: 889 Samat Street and 175 Lopez Rizal cor., Mandaluyong <br> Artist/s: Audrey Punsalang, Aileen Estoquia, Christopher San Pedro, Gabby Prado, Sofia Torres, Mica Adriano, Rico Lascano, Aileen Dabu, Marco Sumayao',
             location: {
                 center: [121.0492287, 14.5837346],
                 zoom: 18.54,

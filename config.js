@@ -15,6 +15,298 @@ var config = {
     footer: '<a href="https://github.com/aaliyahsambale/rosasmurals" target="_blank">Code</a> and <a href="https://github.com/aaliyahsambale/rosasmurals/tree/main/images" target="_blank">images</a>.<br> Special thanks to:<br><a href="https://www.facebook.com/groups/290894146192646" target="_blank">Youth for Vote for Leni - Marikina City</a><br><a href="https://www.youtube.com/watch?v=-L-MW7Q8hhg&list=PLSQP2MHpAR2MAlIGYwL-mWs5NLRJeLKin" target="_blank">Pinoy Adventure Rider</a><br><a href="https://www.facebook.com/santolenosforleni" target="_blank">Santolan for LeniKiko</a><br> <a href="https://www.facebook.com/groups/1111286456288772" target="_blank">Murals for Leni - Volunteers 🌸🌸🌸</a>. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
+            id: 'camsur',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Radikal Magmahal!',
+            image: './images/camsur.jpeg',
+            description: 'Address:Potot, Libmanan, Cam Sur <br> Artist/s: Salingoy Art Group, Rein Ledesma, Geraldvic Badong, Jebo Padernal, & Junie Linsoco ',
+            location: {
+                center: [123.039735,13.6802069],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'bangsamoro',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Bangsamoro Ikaw ang Pana10',
+            image: './images/bangsamoro.jpeg',
+            description: 'Address:Shariff Kabunusan College area, Cotabato City  <br> Artist/s: Cotabato Youth for LENI',
+            location: {
+                center: [124.23463,7.222498],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'sultan',
+            alignment: 'left',
+            hidden: false,
+            title: 'Kulay Rosas ang Bukas',
+            image: './images/sultan.jpeg',
+            description: 'Address: Primark Town Center Tacurong, Sultan Kudarat <br> Artist/s: Sultan Kudarat Youth For Leni, Robredo Peoples Council Sultan Kudarat, at AGRI Partylist',
+            location: {
+                center: [124.6761059,6.6898812],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'lsa-iligan',
+            alignment: 'right',
+            hidden: false,
+            title: 'La Salle Academy Mural',
+            image: './images/lsa-iligan.jpeg',
+            description: 'Address: Bro. Raymund Jeffrey Rd, Pala-o, Iligan City  <br> Artist/s: LSA & IITians volunteers',
+            location: {
+                center: [124.246499, 8.232511],
+                zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'higante',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Walang maliit sa HIGANTENG PAGMAMAHAL',
+            image: './images/higante.jpeg',
+            description: 'Address: Manila E Rd M L Quezon Cor Rodriguez, Angono <br> Artist/s: Mural artists for Leni',
+            location: {
+                center: [121.1483272,14.5378707],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'longparang',
+            alignment: 'left',
+            hidden: false,
+            title: 'Liwanag sa Dilim Stencil Spray Painting',
+            image: './images/angono1.jpeg',
+            description: 'Address: Mahabang Parang, Angono <br> Artist/s: Michael Frank Bayongan Cabasbas',
+            location: {
+                center: [121.1917157,14.5410682],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'ibañez1',
+            alignment: 'right',
+            hidden: false,
+            title: 'Mas Radikal Magmahal',
+            image: './images/angono2.jpeg',
+            description: 'Address: Ibañez, Santo Niño, Angono <br> Artist/s: Maegan Roque, Soleil Fuentes, Lester Lewis De Guzman, Jorriel Membrebe, Marianne Franz Calzado, Kristina Jazmine Gaile Fariñas, Jiliana Kaye Unidad, Jamila Mercado, Amori Justine Punzalan, Nico Noblejas, Eric Sausa, Ikoy Ricio, Danica Garcia, Jik Carreon, Maricris Conde, Zildjian Austin Beniten, Myla Oliquino, Haui Sacay, Nahum Sacay, Kevin Moralita, Krista Mae Balaoro, Justine Balnaja, Lirio Mae Vecina, Ana Dominik Florentino, Thirdd Corpuz, Avea Atanacio, Eikichie Yopo, Marc Warren Gruta Tapic, Sofia Braga, Rolan Calzado, Marco Flores, Say Carps, Raphael Montano, Mikko Tataro Manahan, Peri Villamarin, Carlo Hernandez',
+            location: {
+                center: [121.1506941,14.5258972],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'ibañez2',
+            alignment: 'left',
+            hidden: false,
+            title: 'Trabaho ay sigurado sa gobyernong tapat at totoo.',
+            image: './images/angono3.jpeg',
+            description: 'Address: Ibañez, Santo Niño, Angono <br> Artist/s: Maegan Roque, Soleil Fuentes, Lester Lewis De Guzman, Jorriel Membrebe, Marianne Franz Calzado, Kristina Jazmine Gaile Fariñas, Jiliana Kaye Unidad, Jamila Mercado, Amori Justine Punzalan, Nico Noblejas, Eric Sausa, Ikoy Ricio, Danica Garcia, Jik Carreon, Maricris Conde, Zildjian Austin Beniten, Myla Oliquino, Haui Sacay, Nahum Sacay, Kevin Moralita, Krista Mae Balaoro, Justine Balnaja, Lirio Mae Vecina, Ana Dominik Florentino, Thirdd Corpuz, Avea Atanacio, Eikichie Yopo, Marc Warren Gruta Tapic, Sofia Braga, Rolan Calzado, Marco Flores, Say Carps, Raphael Montano, Mikko Tataro Manahan, Peri Villamarin, Carlo Hernandez',
+            location: {
+                center: [121.1506941,14.5258972],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'erodangono',
+            alignment: 'right',
+            hidden: false,
+            title: 'Sa Biyaheng Tapat, Buhay Ay Aangat!',
+            image: './images/angono4.jpeg',
+            description: 'Address: E. Rodriguez, Santo Niño, Angono <br> Artist/s: Maegan Roque, Soleil Fuentes, Lester Lewis De Guzman, Jorriel Membrebe, Marianne Franz Calzado, Kristina Jazmine Gaile Fariñas, Jiliana Kaye Unidad, Jamila Mercado, Amori Justine Punzalan, Nico Noblejas, Eric Sausa, Ikoy Ricio, Danica Garcia, Jik Carreon, Maricris Conde, Zildjian Austin Beniten, Myla Oliquino, Haui Sacay, Nahum Sacay, Kevin Moralita, Krista Mae Balaoro, Justine Balnaja, Lirio Mae Vecina, Ana Dominik Florentino, Thirdd Corpuz, Avea Atanacio, Eikichie Yopo, Marc Warren Gruta Tapic, Sofia Braga, Rolan Calzado, Marco Flores, Say Carps, Raphael Montano, Mikko Tataro Manahan, Peri Villamarin, Carlo Hernandez',
+            location: {
+                center: [121.1506834,14.5247338],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'angono5',
+            alignment: 'left',
+            hidden: false,
+            title: 'Puno ng Pagasa',
+            image: './images/angono5.jpeg',
+            description: 'Address: Chief Medina Street & Lt. C. Aguinaldo, Angono <br> Artist/s: Unknown',
+            location: {
+                center: [121.1531731,14.5295097],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'angono6',
+            alignment: 'left',
+            hidden: false,
+            title: 'Happy Birthday Leni!',
+            image: './images/angono6.jpeg',
+            description: 'Address: San Vicente Elementary School, A. Ibañez St, San Vicente, Angono <br> Artist/s: Unknown',
+            location: {
+                center: [121.146507,14.5231337],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '',
+            alignment: 'left',
+            hidden: false,
+            title: '',
+            image: './images/',
+            description: 'Address: <br> Artist/s:',
+            location: {
+                center: [],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'pateros',
+            alignment: 'left',
+            hidden: false,
+            title: 'Kulay Rosas ang Pateros',
+            image: './images/pateros.jpeg',
+            description: 'Address: P. Herrera, San Pedro Pateros <br> Artist/s: #PCSiansForLeni, Pateros for Leni ',
+            location: {
+                center: [121.0658439,14.5454852],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'joekho',
+            alignment: 'left',
+            hidden: false,
+            title: 'Kulay Rosas ang Bukas',
+            image: './images/joekho.JPG',
+            description: 'Address: F. Bautista Marulas Valenzuela <br> Artist/s: Joe Kho',
+            location: {
+                center: [120.9784392,14.6751178],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '',
+            alignment: 'left',
+            hidden: false,
+            title: '',
+            image: './images/',
+            description: 'Address: <br> Artist/s:',
+            location: {
+                center: [],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+
+
+
+
+
+
+
+        {
             id: '24',
             alignment: 'left',
             hidden: false,
@@ -1314,44 +1606,6 @@ var config = {
             description: 'Address: Cuaderno Corner Dama de Noche Streets, Dona Francisca Subdivision 2100 Balanga, Philippines<br> Artist/s: Jommel Carreon Pilar',
             location: {
                 center: [120.544591, 14.6835272],
-                zoom: 18.54,
-                pitch: 60,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: 'camsur',
-            alignment: 'fully',
-            hidden: false,
-            title: 'Radikal Magmahal!',
-            image: './images/camsur.jpeg',
-            description: 'Address:Potot, Libmanan, Cam Sur <br> Artist/s: Salingoy Art Group, Rein Ledesma, Geraldvic Badong, Jebo Padernal, & Junie Linsoco ',
-            location: {
-                center: [123.039735,13.6802069],
-                zoom: 18,
-                pitch: 60,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: 'lsa-iligan',
-            alignment: 'left',
-            hidden: false,
-            title: 'La Salle Academy Mural',
-            image: './images/lsa-iligan.jpeg',
-            description: 'Address: Bro. Raymund Jeffrey Rd, Pala-o, Iligan City  <br> Artist/s: LSA & IITians volunteers',
-            location: {
-                center: [124.246499, 8.232511],
                 zoom: 18.54,
                 pitch: 60,
                 bearing: 0

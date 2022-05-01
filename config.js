@@ -1102,7 +1102,7 @@ var config = {
             hidden: false,
             title: 'LENIwanag Para Sa KIKOnabukasan',
             image: './images/glow.gif',
-            description: 'Address: KAPIH Deparo, North Caloocan <br> Artist/s: Jad Dela Cruz and friends ',
+            description: 'Address: KAPIH Deparo, North Caloocan <br> Artist/s: Jad Dela Cruz',
             location: {
                 center: [121.020955,14.740942],
                 zoom: 18,

@@ -224,25 +224,6 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '',
-            alignment: 'left',
-            hidden: false,
-            title: '',
-            image: './images/',
-            description: 'Address: <br> Artist/s:',
-            location: {
-                center: [],
-                zoom: 18,
-                pitch: 60,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
             id: 'pateros',
             alignment: 'left',
             hidden: false,
@@ -280,32 +261,6 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
-        {
-            id: '',
-            alignment: 'left',
-            hidden: false,
-            title: '',
-            image: './images/',
-            description: 'Address: <br> Artist/s:',
-            location: {
-                center: [],
-                zoom: 18,
-                pitch: 60,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-
-
-
-
-
-
-
         {
             id: '24',
             alignment: 'left',

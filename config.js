@@ -684,7 +684,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Leni-Kiko Mural',
-            image: './images/sannarciso,jpeg',
+            image: './images/sannarciso.jpeg',
             description: 'Address: Town Plaza, San Narciso, Zambales <br> Artist/s: William Matawaran',
             location: {
                 center: [120.0791725,15.0155478],

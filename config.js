@@ -34,6 +34,25 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'iloilo',
+            alignment: 'right',
+            hidden: false,
+            title: 'Leni Kiko Mural',
+            image: './images/iloilo.jpeg',
+            description: 'Address: Esplanade 9, iloilo City <br> Artist/s: Rock Drilon and Volunteers',
+            location: {
+                center: [122.57087,10.70184],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: 'bangsamoro',
             alignment: 'fully',
             hidden: false,
@@ -1561,6 +1580,44 @@ var config = {
             location: {
                 center: [121.1165213, 14.6481122],
                 zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'montalban',
+            alignment: 'right',
+            hidden: false,
+            title: 'Gobyernong Tapat Angat Buhay Lahat',
+            image: './images/montalban.jpeg',
+            description: 'Address: Amityville, San Jose Rodriguez Montalban <br> Artist/s: Youth for Leni Montalban ',
+            location: {
+                center: [121.1297628,14.7460605],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: '',
+            alignment: '',
+            hidden: false,
+            title: '',
+            image: './images/',
+            description: 'Address: <br> Artist/s: ',
+            location: {
+                center: [],
+                zoom: 18,
                 pitch: 60,
                 bearing: 0
             },

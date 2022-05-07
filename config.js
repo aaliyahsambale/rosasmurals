@@ -15,6 +15,25 @@ var config = {
     footer: '<a href="https://github.com/aaliyahsambale/rosasmurals" target="_blank">Code</a> and <a href="https://github.com/aaliyahsambale/rosasmurals/tree/main/images" target="_blank">images</a>.<br> Special thanks to:<br><a href="https://www.facebook.com/groups/290894146192646" target="_blank">Youth for Vote for Leni - Marikina City</a><br><a href="https://www.youtube.com/watch?v=-L-MW7Q8hhg&list=PLSQP2MHpAR2MAlIGYwL-mWs5NLRJeLKin" target="_blank">Pinoy Adventure Rider</a><br><a href="https://www.facebook.com/santolenosforleni" target="_blank">Santolan for LeniKiko</a><br> <a href="https://www.facebook.com/groups/1111286456288772" target="_blank">Murals for Leni - Volunteers 🌸🌸🌸</a>. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
+            id: 'bugallon',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Kulay Rosas ang Bukas',
+            image: './images/bungallon.JPG',
+            description: 'Address: 50 T. Bugallon, Marikina Heights <br> Artist/s: Unknwon ',
+            location: {
+                center: [121.1110891,14.6495544],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: 'Kalinga',
             alignment: 'fully',
             hidden: false,
@@ -23,7 +42,7 @@ var config = {
             description: 'Address: Team Leni Kiko Kalinga (TLKK) headquarters, Tabuk, Kalinga <br> Artist/s: Unknown',
             location: {
                 center: [121.435786,17.4159249],
-                zoom: 18,
+                zoom: 14,
                 pitch: 60,
                 bearing: 0
             },
@@ -42,7 +61,7 @@ var config = {
             description: 'Address: Barte Residence, Divisoria, Cawayan, Masbate <br> Artist/s: Cawayan For Leni and Kiko Youth Volunteers',
             location: {
                 center: [123.77052,11.9266628],
-                zoom: 18,
+                zoom: 14,
                 pitch: 60,
                 bearing: 0
             },
@@ -376,6 +395,25 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'mnaval',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Tara Na! Ipanalo na Natin Ito!',
+            image: './images/mnaval.JPG',
+            description: 'Address: M. Naval, San Jose, Navotas <br> Artist/s: Unknown',
+            location: {
+                center: [120.9448699,14.6641077],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: 'malabon',
             alignment: 'right',
             hidden: false,
@@ -547,6 +585,25 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'pasay',
+            alignment: 'left',
+            hidden: false,
+            title: 'Mas Radikal Magmahal',
+            image: './images/pasayvolunteers.jpeg',
+            description: 'Address: Clemente Jose cor. M. Patinio Street, Malibay Pasay City <br> Artist/s: Unknown',
+            location: {
+                center: [121.010505,14.537032],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: 'cavite',
             alignment: 'left',
             hidden: false,
@@ -593,6 +650,44 @@ var config = {
             description: 'Address: Phil Hattori Construction & Development Corp. Brgy. Camalig Meycauayan, Bulacan <br> Artist/s: Team LENIwanag',
             location: {
                 center: [120.9969423,14.7718408],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'sanantonians',
+            alignment: 'right',
+            hidden: false,
+            title: 'San Antonians for Leni!',
+            image: './images/zambales.jpeg',
+            description: 'Address: Town Plaza, Brgy Rizal, San Antonio, Zambales <br> Artist/s: William Matawaran',
+            location: {
+                center: [120.08835,14.9486763],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'sannarciso',
+            alignment: 'left',
+            hidden: false,
+            title: 'Leni-Kiko Mural',
+            image: './images/sannarciso,jpeg',
+            description: 'Address: Town Plaza, San Narciso, Zambales <br> Artist/s: William Matawaran',
+            location: {
+                center: [120.0791725,15.0155478],
                 zoom: 18,
                 pitch: 60,
                 bearing: 0
@@ -685,7 +780,7 @@ var config = {
             hidden: false,
             title: 'Leni',
             image: './images/goodshepherd.jpeg',
-            description: 'Address: Good Shepherd near Batino, Project 3, Quezon City, Metro Manila <br> Artist/s: Unknown',
+            description: 'Address: Good Shepherd near Batino, Project 3, Quezon City <br> Artist/s: Unknown',
             location: {
                 center: [121.0710769, 14.630451],
                 zoom: 18.54,
@@ -856,7 +951,7 @@ var config = {
             hidden: false,
             title: 'Kulay Rosas ang Bukas',
             image: './images/qcveterans.jpeg',
-            description: 'Address: 33 Road B, Veterans Village, Quezon City, Metro Manila <br> Artist/s: Art Atak (Artists: AG Saño, Rashid Sandigan, Volunteers: Alonzo Cristobal, Angelo Manalo, Rommel Selorio, Che Cristobal, Dina Ocampo) ',
+            description: 'Address: 33 Road B, Veterans Village, Quezon City <br> Artist/s: Art Atak (Artists: AG Saño, Rashid Sandigan, Volunteers: Alonzo Cristobal, Angelo Manalo, Rommel Selorio, Che Cristobal, Dina Ocampo) ',
             location: {
                 center: [121.02078, 14.65366],
                 zoom: 18.54,
@@ -1666,6 +1761,25 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'marist',
+            alignment: 'left',
+            hidden: false,
+            title: 'Mas Radikal ang Magmahal',
+            image: './images/maristvillage.jpeg',
+            description: 'Address: Mansanas Street, Marist Village, Marikina Heights <br> Artist/s: Unknown',
+            location: {
+                center: [121.1218281,14.6486231],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: '18',
             alignment: 'left',
             hidden: false,
@@ -1750,7 +1864,7 @@ var config = {
             description: 'Address: Amityville, San Jose Rodriguez Montalban <br> Artist/s: Youth for Leni Montalban ',
             location: {
                 center: [121.1297628,14.7460605],
-                zoom: 18,
+                zoom: 14,
                 pitch: 60,
                 bearing: 0
             },

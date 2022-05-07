@@ -1913,25 +1913,6 @@ var config = {
             onChapterExit: []
         },
         {
-            id: '',
-            alignment: '',
-            hidden: false,
-            title: '',
-            image: './images/',
-            description: 'Address: <br> Artist/s: ',
-            location: {
-                center: [],
-                zoom: 18,
-                pitch: 60,
-                bearing: 0
-            },
-            mapAnimation: 'flyTo',
-            rotateAnimation: true,
-            callback: '',
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
             id: 'montage',
             alignment: 'fully',
             hidden: false,

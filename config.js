@@ -1765,7 +1765,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Leni-Kiko Mural',
-            image: './images/39-chapagnat.jpg',
+            image: './images/39-champagnat.jpg',
             description: 'Address: Champagnat St. Marikina Heights <br> Artist/s: Unknown',
             location: {
                 center: [121.1187793,14.6493522],

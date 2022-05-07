@@ -19,7 +19,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Kulay Rosas ang Bukas',
-            image: './images/bungallon.JPG',
+            image: './images/bugallon.JPG',
             description: 'Address: 50 T. Bugallon, Marikina Heights <br> Artist/s: Unknown ',
             location: {
                 center: [121.1110891,14.6495544],

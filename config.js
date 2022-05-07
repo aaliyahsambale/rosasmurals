@@ -1723,6 +1723,25 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'genordo',
+            alignment: 'left',
+            hidden: false,
+            title: 'Please bumoto ng tama para sa mga bata!',
+            image: './images/genordo.JPG',
+            description: 'Address: General Ordoñez, Marikina Heights, Marikina <br> Artist/s: Sofia, Iya Janelle, Miel, Denise, Rey, Gemry, Ella, Chelsea, Janeah, Josiah, Jaz, Aiyanna, Nicole, Jarvis, Danica, Mica, Jordis',
+            location: {
+                center: [121.1165226,14.6442073],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: 'orfolilac',
             alignment: 'right',
             hidden: false,
@@ -1732,6 +1751,25 @@ var config = {
             location: {
                 center: [121.119358,14.6455552],
                 zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'champag',
+            alignment: 'left',
+            hidden: false,
+            title: 'Leni-Kiko Mural',
+            image: './images/39-chapagnat.jpg',
+            description: 'Address: Champagnat St. Marikina Heights <br> Artist/s: Unknown',
+            location: {
+                center: [121.1187793,14.6493522],
+                zoom: 18,
                 pitch: 60,
                 bearing: 0
             },

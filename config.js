@@ -528,6 +528,25 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'meycauayan',
+            alignment: 'left',
+            hidden: false,
+            title: 'LENIwanag Ang Meycauayan',
+            image: './images/meycauayan.jpeg',
+            description: 'Address: Phil Hattori Construction & Development Corp. Brgy. Camalig Meycauayan, Bulacan <br> Artist/s: Team LENIwanag',
+            location: {
+                center: [120.9969423,14.7718408],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: 'pampanga',
             alignment: 'right',
             hidden: false,
@@ -670,6 +689,82 @@ var config = {
             location: {
                 center: [121.0786366,14.683215],
                 zoom: 18.54,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'donaisidora',
+            alignment: 'left',
+            hidden: false,
+            title: 'Leni-Kiko Husay at Tibay',
+            image: './images/donaisidora.jpeg',
+            description: 'Address: Doña Isidora, Holy Spirit, Quezon City <br> Artist/s: Unknown',
+            location: {
+                center: [121.0778362,14.6824257],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'primitivoqc',
+            alignment: 'right',
+            hidden: false,
+            title: 'Bumoto para sa mga bata!',
+            image: './images/kananqc.jpeg',
+            description: 'Address: Primitivo Street, Kanan, Holy Spirit, Quezon City<br> Artist/s: Unknown',
+            location: {
+                center: [121.0760076,14.6809048],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'frroces',
+            alignment: 'left',
+            hidden: false,
+            title: 'Punô ng Pagasa',
+            image: './images/rocesqc.jpeg',
+            description: 'Address: Fr. Martinez, Diliman, Quezon City <br> Artist/s: Unknown',
+            location: {
+                center: [121.0312706,14.6282023],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'jamboree',
+            alignment: 'right',
+            hidden: false,
+            title: 'Leni Kiko Mural',
+            image: './images/jamboree.jpeg',
+            description: 'Address: 11th Jamboree, Diliman, Quezon City <br> Artist/s: Unknown',
+            location: {
+                center: [121.0407976,14.6299645],
+                zoom: 18,
                 pitch: 60,
                 bearing: 0
             },

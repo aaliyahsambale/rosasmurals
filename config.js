@@ -15,6 +15,44 @@ var config = {
     footer: '<a href="https://github.com/aaliyahsambale/rosasmurals" target="_blank">Code</a> and <a href="https://github.com/aaliyahsambale/rosasmurals/tree/main/images" target="_blank">images</a>.<br> Special thanks to:<br><a href="https://www.facebook.com/groups/290894146192646" target="_blank">Youth for Vote for Leni - Marikina City</a><br><a href="https://www.youtube.com/watch?v=-L-MW7Q8hhg&list=PLSQP2MHpAR2MAlIGYwL-mWs5NLRJeLKin" target="_blank">Pinoy Adventure Rider</a><br><a href="https://www.facebook.com/santolenosforleni" target="_blank">Santolan for LeniKiko</a><br> <a href="https://www.facebook.com/groups/1111286456288772" target="_blank">Murals for Leni - Volunteers 🌸🌸🌸</a>. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
+            id: 'Kalinga',
+            alignment: 'fully',
+            hidden: false,
+            title: 'Angat Buhay',
+            image: './images/kalinga.jpeg',
+            description: 'Address: Team Leni Kiko Kalinga (TLKK) headquarters, Tabuk, Kalinga <br> Artist/s: Unknown',
+            location: {
+                center: [121.435786,17.4159249],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'cawayan',
+            alignment: 'right',
+            hidden: false,
+            title: 'Gobyernong Masaligan Hayahay ang Tanan',
+            image: './images/cawayan.jpeg',
+            description: 'Address: Barte Residence, Divisoria, Cawayan, Masbate <br> Artist/s: Cawayan For Leni and Kiko Youth Volunteers',
+            location: {
+                center: [123.77052,11.9266628],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: 'camsur',
             alignment: 'fully',
             hidden: false,
@@ -23,6 +61,25 @@ var config = {
             description: 'Address:Potot, Libmanan, Cam Sur <br> Artist/s: Salingoy Art Group, Rein Ledesma, Geraldvic Badong, Jebo Padernal, & Junie Linsoco ',
             location: {
                 center: [123.039735,13.6802069],
+                zoom: 18,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
+            id: 'leyte',
+            alignment: 'right',
+            hidden: false,
+            title: 'Angat Buhay Lahat',
+            image: './images/abuyog.jpeg',
+            description: 'Address: Sto. Niño Childrens Park in Brgy. Bito. Abuyog, Leyte <br> Artist/s: Youth for Leni Kiko - Abuyog',
+            location: {
+                center: [125.0065963,10.7526553],
                 zoom: 18,
                 pitch: 60,
                 bearing: 0

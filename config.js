@@ -642,6 +642,25 @@ var config = {
             onChapterExit: []
         },
         {
+            id: 'nuevaecija',
+            alignment: 'left',
+            hidden: false,
+            title: 'Pasibulin ang Pag-asa',
+            image: './images/pasibulin.jpeg',
+            description: 'Address: San Vicente, Gapan, Nueva Ecija <br> Artist/s: De Guzman Family',
+            location: {
+                center: [120.945187, 15.311012],
+                zoom: 14,
+                pitch: 60,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
+        {
             id: 'meycauayan',
             alignment: 'left',
             hidden: false,
